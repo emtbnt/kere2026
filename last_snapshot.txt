@@ -37,8 +37,8 @@ Område KBH
 Alle (12)
 Indre By (1)
 Vesterbro
-Østerbro (1)
-Nørrebro (6)
+Østerbro (2)
+Nørrebro (5)
 Valby (1)
 Amager (3)
 Frederiksberg
@@ -95,52 +95,49 @@ Saltholmsvej 2, 5., 2300 København S
 2
 
 Reserveret
+Delevenlig
 
-Ravnsborggade 17B, 3. tv, 2200 København N
+Herninggade 26, st., 2100 København Ø
 
 RESERVERET
 
-Moderne 3-værelses på Ravnsborggade
+4 vær. på Østerbro(Lav stuelejlighed)
 
-9.163 kr./md.
+21.600 kr./md.
 
-3 værelser
+4 værelser
 
-57 m
+96 m
 2
 
 Reserveret
-Delevenlig
 
-Brohusgade 20, st., 2200 København N
+Drogdensgade 3, 5., 2300 København S
 
 RESERVERET
 
-3-værelses lejlighed på Nørrebro
+5-vær. penthouse med altan
 
-19.733 kr./md.
+27.308 kr./md.
 
-3 værelser
+5 værelser
 
-74 m
+113 m
 2
 
 Reserveret
-Delevenlig
-Elevator
-Altan
 
-Griffenfeldsgade 6, 3. th, 2200 København N
+Skindergade 44, 1., 1159 København K
 
 RESERVERET
 
-Delevenlig lejlighed centralt på Nørrebro
+5-værelses lejlighed i indre by
 
-17.402 kr./md.
+29.867 kr./md.
 
-3 værelser
+5 værelser
 
-100 m
+128 m
 2
 
 Udlejet
@@ -189,47 +186,51 @@ Bjelkes Allé 18A, 5., 2200 København N
 
 Reserveret
 
-Drogdensgade 3, 5., 2300 København S
+Ravnsborggade 17B, 3. tv, 2200 København N
 
 RESERVERET
 
-5-vær. penthouse med altan
+Moderne 3-værelses på Ravnsborggade
 
-27.308 kr./md.
+9.163 kr./md.
 
-5 værelser
+3 værelser
 
-113 m
+57 m
 2
 
 Reserveret
+Delevenlig
 
-Skindergade 44, 1., 1159 København K
+Brohusgade 20, st., 2200 København N
 
 RESERVERET
 
-5-værelses lejlighed i indre by
+3-værelses lejlighed på Nørrebro
 
-29.867 kr./md.
+19.733 kr./md.
 
-5 værelser
+3 værelser
 
-128 m
+74 m
 2
 
 Reserveret
+Delevenlig
+Elevator
+Altan
 
-Nordre Fasanvej 271A, 3., 2200 København N
+Griffenfeldsgade 6, 3. th, 2200 København N
 
 RESERVERET
 
-6-værelses lejlighed på Nørrebro
+Delevenlig lejlighed centralt på Nørrebro
 
-19.114 kr./md.
+17.402 kr./md.
 
-6 værelser
+3 værelser
 
-114 m
+100 m
 2
 
 Udlejet
