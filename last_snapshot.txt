@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-12 boliger fundet
+10 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,11 +34,11 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (12)
-Indre By (1)
+Alle (10)
+Indre By
 Vesterbro
 Østerbro (2)
-Nørrebro (5)
+Nørrebro (4)
 Valby (1)
 Amager (3)
 Frederiksberg
@@ -125,21 +125,6 @@ RESERVERET
 113 m
 2
 
-Reserveret
-
-Skindergade 44, 1., 1159 København K
-
-RESERVERET
-
-5-værelses lejlighed i indre by
-
-29.867 kr./md.
-
-5 værelser
-
-128 m
-2
-
 Udlejet
 
 Toftegårds Allé 18, 1., 2500 Valby
@@ -197,22 +182,6 @@ Moderne 3-værelses på Ravnsborggade
 3 værelser
 
 57 m
-2
-
-Reserveret
-Delevenlig
-
-Brohusgade 20, st., 2200 København N
-
-RESERVERET
-
-3-værelses lejlighed på Nørrebro
-
-19.733 kr./md.
-
-3 værelser
-
-74 m
 2
 
 Reserveret
