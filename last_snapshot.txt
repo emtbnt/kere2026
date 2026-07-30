@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-10 boliger fundet
+11 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,8 +34,8 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (10)
-Indre By
+Alle (11)
+Indre By (1)
 Vesterbro
 Østerbro (2)
 Nørrebro (4)
@@ -67,82 +67,17 @@ Tagterrasse
 Delevenlig
 Altan
 Ryd filter
-Penthouse
-Tagterrasse
 
-Strandboulevarden 61, 5. th, 2100 København Ø
+Skindergade 44, 1., 1159 København K
 
-4-værelses lejlighed på Østerbro
+5-værelses lejlighed i indre by
 
-28.350 kr./md.
-
-4 værelser
-
-126 m
-2
-
-Altan
-
-Saltholmsvej 2, 5., 2300 København S
-
-4-vær. penthouse med altan
-
-24.967 kr./md.
-
-4 værelser
-
-107 m
-2
-
-Reserveret
-Delevenlig
-
-Herninggade 26, st., 2100 København Ø
-
-RESERVERET
-
-4 vær. på Østerbro(Lav stuelejlighed)
-
-21.600 kr./md.
-
-4 værelser
-
-96 m
-2
-
-Reserveret
-
-Drogdensgade 3, 5., 2300 København S
-
-RESERVERET
-
-5-vær. penthouse med altan
-
-27.308 kr./md.
+29.867 kr./md.
 
 5 værelser
 
-113 m
+128 m
 2
-
-Udlejet
-
-Toftegårds Allé 18, 1., 2500 Valby
-
-UDLEJET
-
-2-værelses lejlighed i Valby
-
-11.644 kr./md.
-
-2 værelser
-
-73 m
-2
-
-Erhvervslokale?
-
-Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
 
 Penthouse
 Tagterrasse
@@ -215,6 +150,83 @@ UDLEJET
 4 værelser
 
 111 m
+2
+
+Erhvervslokale?
+
+Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+
+Penthouse
+Tagterrasse
+
+Strandboulevarden 61, 5. th, 2100 København Ø
+
+4-værelses lejlighed på Østerbro
+
+28.350 kr./md.
+
+4 værelser
+
+126 m
+2
+
+Altan
+
+Saltholmsvej 2, 5., 2300 København S
+
+4-vær. penthouse med altan
+
+24.967 kr./md.
+
+4 værelser
+
+107 m
+2
+
+Reserveret
+Delevenlig
+
+Herninggade 26, st., 2100 København Ø
+
+RESERVERET
+
+4 vær. på Østerbro(Lav stuelejlighed)
+
+21.600 kr./md.
+
+4 værelser
+
+96 m
+2
+
+Reserveret
+
+Drogdensgade 3, 5., 2300 København S
+
+RESERVERET
+
+5-vær. penthouse med altan
+
+27.308 kr./md.
+
+5 værelser
+
+113 m
+2
+
+Udlejet
+
+Toftegårds Allé 18, 1., 2500 Valby
+
+UDLEJET
+
+2-værelses lejlighed i Valby
+
+11.644 kr./md.
+
+2 værelser
+
+73 m
 2
 
 Kereby ApS
