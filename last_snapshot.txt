@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-10 boliger fundet
+9 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,11 +34,11 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (10)
+Alle (9)
 Indre By (1)
 Vesterbro
 Østerbro (2)
-Nørrebro (3)
+Nørrebro (2)
 Valby (1)
 Amager (3)
 Frederiksberg
@@ -111,32 +111,32 @@ RESERVERET
 
 Reserveret
 
-Ravnsborggade 17B, 3. tv, 2200 København N
+Drogdensgade 3, 5., 2300 København S
 
 RESERVERET
 
-Moderne 3-værelses på Ravnsborggade
+5-vær. penthouse med altan
 
-9.163 kr./md.
+27.308 kr./md.
 
-3 værelser
+5 værelser
 
-57 m
+113 m
 2
 
 Udlejet
 
-Toftegårds Allé 18, 1., 2500 Valby
+Amagerbrogade 120, 4. tv, 2300 København S
 
 UDLEJET
 
-2-værelses lejlighed i Valby
+4-værelses lejlighed på Amager
 
-11.644 kr./md.
+17.612 kr./md.
 
-2 værelser
+4 værelser
 
-73 m
+111 m
 2
 
 Erhvervslokale?
@@ -184,34 +184,19 @@ RESERVERET
 96 m
 2
 
-Reserveret
-
-Drogdensgade 3, 5., 2300 København S
-
-RESERVERET
-
-5-vær. penthouse med altan
-
-27.308 kr./md.
-
-5 værelser
-
-113 m
-2
-
 Udlejet
 
-Amagerbrogade 120, 4. tv, 2300 København S
+Toftegårds Allé 18, 1., 2500 Valby
 
 UDLEJET
 
-4-værelses lejlighed på Amager
+2-værelses lejlighed i Valby
 
-17.612 kr./md.
+11.644 kr./md.
 
-4 værelser
+2 værelser
 
-111 m
+73 m
 2
 
 Kereby ApS
