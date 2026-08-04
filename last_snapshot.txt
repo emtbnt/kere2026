@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-11 boliger fundet
+13 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,13 +34,13 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (11)
+Alle (13)
 Indre By (1)
 Vesterbro
 Østerbro (1)
 Nørrebro (4)
 Valby (1)
-Amager (4)
+Amager (6)
 Frederiksberg
 Hellerup
 
@@ -104,6 +104,21 @@ Bjelkes Allé 18A, 5., 2200 København N
 2 værelser
 
 77 m
+2
+
+Reserveret
+
+Drogdensgade 2, 3. th, 2300 København S
+
+RESERVERET
+
+4-værelses lejlighed på Amager
+
+16.545 kr./md.
+
+4 værelser
+
+104 m
 2
 
 Reserveret
@@ -182,6 +197,17 @@ Drogdensgade 2, 5. th, 2300 København S
 4 værelser
 
 100 m
+2
+
+Lyongade 12, 5. tv, 2300 København S
+
+2-værelses lejlighed på Amager med altan
+
+16.467 kr./md.
+
+2 værelser
+
+76 m
 2
 
 Reserveret
