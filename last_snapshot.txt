@@ -88,24 +88,11 @@ Saltholmsvej 2, 5., 2300 København S
 
 4-vær. penthouse med altan
 
-24.967 kr./md.
+24.075 kr./md.
 
 4 værelser
 
 107 m
-2
-
-Delevenlig
-
-Brohusgade 20, st., 2200 København N
-
-3-værelses lejlighed på Nørrebro
-
-19.733 kr./md.
-
-3 værelser
-
-74 m
 2
 
 Reserveret
@@ -151,6 +138,22 @@ RESERVERET
 3 værelser
 
 82 m
+2
+
+Reserveret
+Delevenlig
+
+Brohusgade 20, st., 2200 København N
+
+RESERVERET
+
+3-værelses lejlighed på Nørrebro
+
+19.733 kr./md.
+
+3 værelser
+
+74 m
 2
 
 Udlejet
@@ -201,20 +204,6 @@ Fantastisk penthouselejlighed lige ved Søerne
 114 m
 2
 
-Delevenlig
-Altan
-
-Drogdensgade 2, 5. th, 2300 København S
-
-4-værelses lejlighed med altan på Amager
-
-22.500 kr./md.
-
-4 værelser
-
-100 m
-2
-
 Bjelkes Allé 18A, 5., 2200 København N
 
 2-værelses lejlighed tæt på metro og grønne områder
@@ -254,6 +243,23 @@ RESERVERET
 2 værelser
 
 76 m
+2
+
+Reserveret
+Delevenlig
+Altan
+
+Drogdensgade 2, 5. th, 2300 København S
+
+RESERVERET
+
+4-værelses lejlighed med altan på Amager
+
+22.500 kr./md.
+
+4 værelser
+
+100 m
 2
 
 Reserveret
