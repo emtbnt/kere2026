@@ -95,53 +95,9 @@ Saltholmsvej 2, 5., 2300 København S
 107 m
 2
 
-Bjelkes Allé 18A, 5., 2200 København N
-
-2-værelses lejlighed tæt på metro og grønne områder
-
-17.325 kr./md.
-
-2 værelser
-
-77 m
-2
-
-Reserveret
-
-Nygårdsvej 16, 1. tv, 2100 København Ø
-
-RESERVERET
-
-3 værelses lejlighed på Østerbro
-
-13.274 kr./md.
-
-3 værelser
-
-85 m
-2
-
-Reserveret
-
-Lyongade 12, 5. tv, 2300 København S
-
-RESERVERET
-
-2-værelses lejlighed på Amager med altan
-
-16.467 kr./md.
-
-2 værelser
-
-76 m
-2
-
-Reserveret
 Delevenlig
 
 Brohusgade 20, st., 2200 København N
-
-RESERVERET
 
 3-værelses lejlighed på Nørrebro
 
@@ -150,6 +106,51 @@ RESERVERET
 3 værelser
 
 74 m
+2
+
+Reserveret
+
+Jagtvej 101, 4. mf, 2200 København N
+
+RESERVERET
+
+3-værelses lejlighed på Nørrebro
+
+13.816 kr./md.
+
+3 værelser
+
+88 m
+2
+
+Reserveret
+
+Drogdensgade 2, 3. th, 2300 København S
+
+RESERVERET
+
+4-værelses lejlighed på Amager
+
+16.545 kr./md.
+
+4 værelser
+
+104 m
+2
+
+Reserveret
+
+Lille Fredensgade 6, 2., 2200 København N
+
+RESERVERET
+
+4. værelses lejlighed tæt på Søerne
+
+13.318 kr./md.
+
+3 værelser
+
+82 m
 2
 
 Udlejet
@@ -214,49 +215,45 @@ Drogdensgade 2, 5. th, 2300 København S
 100 m
 2
 
-Reserveret
+Bjelkes Allé 18A, 5., 2200 København N
 
-Jagtvej 101, 4. mf, 2200 København N
+2-værelses lejlighed tæt på metro og grønne områder
 
-RESERVERET
+17.325 kr./md.
 
-3-værelses lejlighed på Nørrebro
+2 værelser
 
-13.816 kr./md.
-
-3 værelser
-
-88 m
+77 m
 2
 
 Reserveret
 
-Drogdensgade 2, 3. th, 2300 København S
+Nygårdsvej 16, 1. tv, 2100 København Ø
 
 RESERVERET
 
-4-værelses lejlighed på Amager
+3 værelses lejlighed på Østerbro
 
-16.545 kr./md.
+13.274 kr./md.
 
-4 værelser
+3 værelser
 
-104 m
+85 m
 2
 
 Reserveret
 
-Lille Fredensgade 6, 2., 2200 København N
+Lyongade 12, 5. tv, 2300 København S
 
 RESERVERET
 
-4. værelses lejlighed tæt på Søerne
+2-værelses lejlighed på Amager med altan
 
-13.318 kr./md.
+16.467 kr./md.
 
-3 værelser
+2 værelser
 
-82 m
+76 m
 2
 
 Reserveret
