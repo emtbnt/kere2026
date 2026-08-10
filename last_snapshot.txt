@@ -142,34 +142,33 @@ RESERVERET
 
 Reserveret
 Delevenlig
-Altan
 
-Drogdensgade 2, 5. th, 2300 København S
+Brohusgade 20, st., 2200 København N
 
 RESERVERET
 
-4-værelses lejlighed med altan på Amager
+3-værelses lejlighed på Nørrebro
 
-22.500 kr./md.
+19.733 kr./md.
 
-4 værelser
+3 værelser
 
-100 m
+74 m
 2
 
-Reserveret
+Udlejet
 
-Skindergade 44, 1., 1159 København K
+Lille Fredensgade 6, 2., 2200 København N
 
-RESERVERET
+UDLEJET
 
-5-værelses lejlighed i indre by
+4. værelses lejlighed tæt på Søerne
 
-29.867 kr./md.
+13.318 kr./md.
 
-5 værelser
+3 værelser
 
-128 m
+82 m
 2
 
 Udlejet
@@ -247,34 +246,35 @@ RESERVERET
 2
 
 Reserveret
+Delevenlig
+Altan
 
-Lille Fredensgade 6, 2., 2200 København N
+Drogdensgade 2, 5. th, 2300 København S
 
 RESERVERET
 
-4. værelses lejlighed tæt på Søerne
+4-værelses lejlighed med altan på Amager
 
-13.318 kr./md.
+22.500 kr./md.
 
-3 værelser
+4 værelser
 
-82 m
+100 m
 2
 
 Reserveret
-Delevenlig
 
-Brohusgade 20, st., 2200 København N
+Skindergade 44, 1., 1159 København K
 
 RESERVERET
 
-3-værelses lejlighed på Nørrebro
+5-værelses lejlighed i indre by
 
-19.733 kr./md.
+29.867 kr./md.
 
-3 værelser
+5 værelser
 
-74 m
+128 m
 2
 
 Udlejet
