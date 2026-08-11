@@ -138,49 +138,48 @@ RESERVERET
 
 Reserveret
 
-Drogdensgade 2, 3. th, 2300 København S
+Lyongade 12, 5. tv, 2300 København S
 
 RESERVERET
 
-4-værelses lejlighed på Amager
+2-værelses lejlighed på Amager med altan
 
-16.545 kr./md.
+16.467 kr./md.
 
-4 værelser
+2 værelser
 
-104 m
+76 m
 2
 
 Reserveret
 Delevenlig
-Altan
 
-Drogdensgade 2, 5. th, 2300 København S
+Brohusgade 20, st., 2200 København N
 
 RESERVERET
 
-4-værelses lejlighed med altan på Amager
+3-værelses lejlighed på Nørrebro
 
-22.500 kr./md.
+19.733 kr./md.
 
-4 værelser
+3 værelser
 
-100 m
+74 m
 2
 
-Reserveret
+Udlejet
 
-Skindergade 44, 1., 1159 København K
+Nygårdsvej 16, 1. tv, 2100 København Ø
 
-RESERVERET
+UDLEJET
 
-5-værelses lejlighed i indre by
+3 værelses lejlighed på Østerbro
 
-29.867 kr./md.
+13.274 kr./md.
 
-5 værelser
+3 værelser
 
-128 m
+85 m
 2
 
 Erhvervslokale?
@@ -247,48 +246,49 @@ RESERVERET
 
 Reserveret
 
-Nygårdsvej 16, 1. tv, 2100 København Ø
+Drogdensgade 2, 3. th, 2300 København S
 
 RESERVERET
 
-3 værelses lejlighed på Østerbro
+4-værelses lejlighed på Amager
 
-13.274 kr./md.
+16.545 kr./md.
 
-3 værelser
+4 værelser
 
-85 m
-2
-
-Reserveret
-
-Lyongade 12, 5. tv, 2300 København S
-
-RESERVERET
-
-2-værelses lejlighed på Amager med altan
-
-16.467 kr./md.
-
-2 værelser
-
-76 m
+104 m
 2
 
 Reserveret
 Delevenlig
+Altan
 
-Brohusgade 20, st., 2200 København N
+Drogdensgade 2, 5. th, 2300 København S
 
 RESERVERET
 
-3-værelses lejlighed på Nørrebro
+4-værelses lejlighed med altan på Amager
 
-19.733 kr./md.
+22.500 kr./md.
 
-3 værelser
+4 værelser
 
-74 m
+100 m
+2
+
+Reserveret
+
+Skindergade 44, 1., 1159 København K
+
+RESERVERET
+
+5-værelses lejlighed i indre by
+
+29.867 kr./md.
+
+5 værelser
+
+128 m
 2
 
 Kereby ApS
