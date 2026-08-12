@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-15 boliger fundet
+16 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,10 +34,10 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (15)
+Alle (16)
 Indre By (1)
 Vesterbro
-Østerbro (2)
+Østerbro (3)
 Nørrebro (4)
 Valby
 Amager (6)
@@ -96,6 +96,127 @@ Saltholmsvej 2, 5., 2300 København S
 2
 
 Reserveret
+
+Nyborggade 6, 5. th, 2100 København Ø
+
+RESERVERET
+
+2-værelses lejlighed på Østerbro
+
+9.730 kr./md.
+
+2 værelser
+
+59 m
+2
+
+Reserveret
+
+Amagerbrogade 118, 3. tv, 2300 København S
+
+RESERVERET
+
+3-værelses lejlighed på Amager
+
+14.679 kr./md.
+
+3 værelser
+
+93 m
+2
+
+Reserveret
+
+Sundbyvester Plads 1, 3. tv, 2300 København S
+
+RESERVERET
+
+3-værelses lejlighed på Amager
+
+10.833 kr./md.
+
+3 værelser
+
+69 m
+2
+
+Reserveret
+Delevenlig
+Altan
+
+Drogdensgade 2, 5. th, 2300 København S
+
+RESERVERET
+
+4-værelses lejlighed med altan på Amager
+
+22.500 kr./md.
+
+4 værelser
+
+100 m
+2
+
+Reserveret
+
+Skindergade 44, 1., 1159 København K
+
+RESERVERET
+
+5-værelses lejlighed i indre by
+
+29.867 kr./md.
+
+5 værelser
+
+128 m
+2
+
+Udlejet
+
+Drogdensgade 2, 3. th, 2300 København S
+
+UDLEJET
+
+4-værelses lejlighed på Amager
+
+16.545 kr./md.
+
+4 værelser
+
+104 m
+2
+
+Erhvervslokale?
+
+Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+
+Penthouse
+Tagterrasse
+
+Sortedam Dossering 45, 5. tv, 2200 København N
+
+Fantastisk penthouselejlighed lige ved Søerne
+
+25.650 kr./md.
+
+3 værelser
+
+114 m
+2
+
+Bjelkes Allé 18A, 5., 2200 København N
+
+2-værelses lejlighed tæt på metro og grønne områder
+
+17.325 kr./md.
+
+2 værelser
+
+77 m
+2
+
+Reserveret
 Elevator
 
 Falkoner Alle 79, 4. th, 2000 Frederiksberg
@@ -143,21 +264,6 @@ RESERVERET
 2
 
 Reserveret
-
-Lyongade 12, 5. tv, 2300 København S
-
-RESERVERET
-
-2-værelses lejlighed på Amager med altan
-
-16.467 kr./md.
-
-2 værelser
-
-76 m
-2
-
-Reserveret
 Delevenlig
 
 Brohusgade 20, st., 2200 København N
@@ -188,110 +294,19 @@ UDLEJET
 85 m
 2
 
-Erhvervslokale?
+Udlejet
 
-Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+Lyongade 12, 5. tv, 2300 København S
 
-Penthouse
-Tagterrasse
+UDLEJET
 
-Sortedam Dossering 45, 5. tv, 2200 København N
+2-værelses lejlighed på Amager med altan
 
-Fantastisk penthouselejlighed lige ved Søerne
-
-25.650 kr./md.
-
-3 værelser
-
-114 m
-2
-
-Bjelkes Allé 18A, 5., 2200 København N
-
-2-værelses lejlighed tæt på metro og grønne områder
-
-17.325 kr./md.
+16.467 kr./md.
 
 2 værelser
 
-77 m
-2
-
-Reserveret
-
-Amagerbrogade 118, 3. tv, 2300 København S
-
-RESERVERET
-
-3-værelses lejlighed på Amager
-
-14.679 kr./md.
-
-3 værelser
-
-93 m
-2
-
-Reserveret
-
-Sundbyvester Plads 1, 3. tv, 2300 København S
-
-RESERVERET
-
-3-værelses lejlighed på Amager
-
-10.833 kr./md.
-
-3 værelser
-
-69 m
-2
-
-Reserveret
-
-Drogdensgade 2, 3. th, 2300 København S
-
-RESERVERET
-
-4-værelses lejlighed på Amager
-
-16.545 kr./md.
-
-4 værelser
-
-104 m
-2
-
-Reserveret
-Delevenlig
-Altan
-
-Drogdensgade 2, 5. th, 2300 København S
-
-RESERVERET
-
-4-værelses lejlighed med altan på Amager
-
-22.500 kr./md.
-
-4 værelser
-
-100 m
-2
-
-Reserveret
-
-Skindergade 44, 1., 1159 København K
-
-RESERVERET
-
-5-værelses lejlighed i indre by
-
-29.867 kr./md.
-
-5 værelser
-
-128 m
+76 m
 2
 
 Kereby ApS
