@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-17 boliger fundet
+19 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,13 +34,13 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (17)
+Alle (19)
 Indre By (1)
 Vesterbro
-Østerbro (3)
+Østerbro (4)
 Nørrebro (4)
 Valby
-Amager (6)
+Amager (7)
 Frederiksberg (3)
 Hellerup
 
@@ -81,18 +81,29 @@ Strandboulevarden 61, 5. th, 2100 København Ø
 126 m
 2
 
-Delevenlig
+Penthouse
 Altan
 
-Saltholmsvej 2, 5., 2300 København S
+Amagerbrogade 111, 5., 2300 København S
 
-4-vær. penthouse med altan
+5-værelses lejlighed på Amager
 
-24.075 kr./md.
+25.650 kr./md.
 
-4 værelser
+5 værelser
 
-107 m
+108 m
+2
+
+Bjelkes Allé 18A, 5., 2200 København N
+
+2-værelses lejlighed tæt på metro og grønne områder
+
+17.325 kr./md.
+
+2 værelser
+
+77 m
 2
 
 Reserveret
@@ -144,33 +155,36 @@ RESERVERET
 2
 
 Reserveret
+Delevenlig
 
-Jagtvej 101, 4. mf, 2200 København N
+Brohusgade 20, st., 2200 København N
 
 RESERVERET
 
 3-værelses lejlighed på Nørrebro
 
-13.816 kr./md.
+19.733 kr./md.
 
 3 værelser
 
-88 m
+74 m
 2
 
 Reserveret
+Delevenlig
+Altan
 
-Skindergade 44, 1., 1159 København K
+Saltholmsvej 2, 5., 2300 København S
 
 RESERVERET
 
-5-værelses lejlighed i indre by
+4-vær. penthouse med altan
 
-29.867 kr./md.
+24.075 kr./md.
 
-5 værelser
+4 værelser
 
-128 m
+107 m
 2
 
 Udlejet
@@ -209,6 +223,17 @@ Erhvervslokale?
 
 Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
 
+Strandboulevarden 61, st. th, 2100 København Ø
+
+5-værelses lejlighed på Østerbro
+
+26.867 kr./md.
+
+5 værelser
+
+124 m
+2
+
 Penthouse
 Tagterrasse
 
@@ -223,15 +248,19 @@ Fantastisk penthouselejlighed lige ved Søerne
 114 m
 2
 
-Bjelkes Allé 18A, 5., 2200 København N
+Reserveret
 
-2-værelses lejlighed tæt på metro og grønne områder
+Sundbyvester Plads 9, 4. tv, 2300 København S
 
-17.325 kr./md.
+RESERVERET
 
-2 værelser
+3-værelses lejlighed på Amager
 
-77 m
+9.944 kr./md.
+
+3 værelser
+
+63 m
 2
 
 Reserveret
@@ -266,33 +295,32 @@ RESERVERET
 
 Reserveret
 
-Sundbyvester Plads 1, 3. tv, 2300 København S
-
-RESERVERET
-
-3-værelses lejlighed på Amager
-
-10.833 kr./md.
-
-3 værelser
-
-69 m
-2
-
-Reserveret
-Delevenlig
-
-Brohusgade 20, st., 2200 København N
+Jagtvej 101, 4. mf, 2200 København N
 
 RESERVERET
 
 3-værelses lejlighed på Nørrebro
 
-19.733 kr./md.
+13.816 kr./md.
 
 3 værelser
 
-74 m
+88 m
+2
+
+Reserveret
+
+Skindergade 44, 1., 1159 København K
+
+RESERVERET
+
+5-værelses lejlighed i indre by
+
+29.867 kr./md.
+
+5 værelser
+
+128 m
 2
 
 Udlejet
