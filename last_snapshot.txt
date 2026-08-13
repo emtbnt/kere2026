@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-19 boliger fundet
+13 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,14 +34,14 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (19)
-Indre By (1)
+Alle (13)
+Indre By
 Vesterbro
-Østerbro (4)
-Nørrebro (4)
+Østerbro (2)
+Nørrebro (3)
 Valby
-Amager (7)
-Frederiksberg (3)
+Amager (4)
+Frederiksberg (4)
 Hellerup
 
 Værelser INKL. STUE
@@ -159,63 +159,19 @@ RESERVERET
 
 Reserveret
 Delevenlig
+Altan
 
-Brohusgade 20, st., 2200 København N
+Saltholmsvej 2, 5., 2300 København S
 
 RESERVERET
 
-3-værelses lejlighed på Nørrebro
+4-vær. penthouse med altan
 
-19.733 kr./md.
+24.075 kr./md.
 
-3 værelser
+4 værelser
 
-74 m
-2
-
-Udlejet
-
-Nygårdsvej 16, 1. tv, 2100 København Ø
-
-UDLEJET
-
-3 værelses lejlighed på Østerbro
-
-13.274 kr./md.
-
-3 værelser
-
-85 m
-2
-
-Udlejet
-
-Lyongade 12, 5. tv, 2300 København S
-
-UDLEJET
-
-2-værelses lejlighed på Amager med altan
-
-16.467 kr./md.
-
-2 værelser
-
-76 m
-2
-
-Udlejet
-
-Skindergade 44, 1., 1159 København K
-
-UDLEJET
-
-5-værelses lejlighed i indre by
-
-29.867 kr./md.
-
-5 værelser
-
-128 m
+107 m
 2
 
 Erhvervslokale?
@@ -238,17 +194,17 @@ Fantastisk penthouselejlighed lige ved Søerne
 
 Reserveret
 
-Strandboulevarden 61, st. th, 2100 København Ø
+Hollændervej 21, 2. tv, 1855 Frederiksberg C
 
 RESERVERET
 
-5-værelses lejlighed på Østerbro
+4-værelses lejlighed på Frederiksberg
 
-26.867 kr./md.
+16.652 kr./md.
 
-5 værelser
+4 værelser
 
-124 m
+102 m
 2
 
 Reserveret
@@ -297,67 +253,19 @@ RESERVERET
 2
 
 Reserveret
+Delevenlig
 
-Jagtvej 101, 4. mf, 2200 København N
+Brohusgade 20, st., 2200 København N
 
 RESERVERET
 
 3-værelses lejlighed på Nørrebro
 
-13.816 kr./md.
+19.733 kr./md.
 
 3 værelser
 
-88 m
-2
-
-Reserveret
-Delevenlig
-Altan
-
-Saltholmsvej 2, 5., 2300 København S
-
-RESERVERET
-
-4-vær. penthouse med altan
-
-24.075 kr./md.
-
-4 værelser
-
-107 m
-2
-
-Udlejet
-
-Drogdensgade 2, 3. th, 2300 København S
-
-UDLEJET
-
-4-værelses lejlighed på Amager
-
-16.545 kr./md.
-
-4 værelser
-
-104 m
-2
-
-Udlejet
-Delevenlig
-Altan
-
-Drogdensgade 2, 5. th, 2300 København S
-
-UDLEJET
-
-4-værelses lejlighed med altan på Amager
-
-22.500 kr./md.
-
-4 værelser
-
-100 m
+74 m
 2
 
 Kereby ApS
