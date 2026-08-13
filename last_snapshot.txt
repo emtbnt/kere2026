@@ -81,20 +81,6 @@ Strandboulevarden 61, 5. th, 2100 København Ø
 126 m
 2
 
-Penthouse
-Altan
-
-Amagerbrogade 111, 5., 2300 København S
-
-5-værelses lejlighed på Amager
-
-25.650 kr./md.
-
-5 værelser
-
-108 m
-2
-
 Bjelkes Allé 18A, 5., 2200 København N
 
 2-værelses lejlighed tæt på metro og grønne områder
@@ -104,6 +90,23 @@ Bjelkes Allé 18A, 5., 2200 København N
 2 værelser
 
 77 m
+2
+
+Reserveret
+Penthouse
+Altan
+
+Amagerbrogade 111, 5., 2300 København S
+
+RESERVERET
+
+5-værelses lejlighed på Amager
+
+25.650 kr./md.
+
+5 værelser
+
+108 m
 2
 
 Reserveret
@@ -170,69 +173,54 @@ RESERVERET
 74 m
 2
 
-Reserveret
-Delevenlig
-Altan
+Udlejet
 
-Saltholmsvej 2, 5., 2300 København S
+Nygårdsvej 16, 1. tv, 2100 København Ø
 
-RESERVERET
+UDLEJET
 
-4-vær. penthouse med altan
+3 værelses lejlighed på Østerbro
 
-24.075 kr./md.
+13.274 kr./md.
 
-4 værelser
+3 værelser
 
-107 m
+85 m
 2
 
 Udlejet
 
-Drogdensgade 2, 3. th, 2300 København S
+Lyongade 12, 5. tv, 2300 København S
 
 UDLEJET
 
-4-værelses lejlighed på Amager
+2-værelses lejlighed på Amager med altan
 
-16.545 kr./md.
+16.467 kr./md.
 
-4 værelser
+2 værelser
 
-104 m
+76 m
 2
 
 Udlejet
-Delevenlig
-Altan
 
-Drogdensgade 2, 5. th, 2300 København S
+Skindergade 44, 1., 1159 København K
 
 UDLEJET
 
-4-værelses lejlighed med altan på Amager
+5-værelses lejlighed i indre by
 
-22.500 kr./md.
+29.867 kr./md.
 
-4 værelser
+5 værelser
 
-100 m
+128 m
 2
 
 Erhvervslokale?
 
 Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
-
-Strandboulevarden 61, st. th, 2100 København Ø
-
-5-værelses lejlighed på Østerbro
-
-26.867 kr./md.
-
-5 værelser
-
-124 m
-2
 
 Penthouse
 Tagterrasse
@@ -246,6 +234,21 @@ Fantastisk penthouselejlighed lige ved Søerne
 3 værelser
 
 114 m
+2
+
+Reserveret
+
+Strandboulevarden 61, st. th, 2100 København Ø
+
+RESERVERET
+
+5-værelses lejlighed på Østerbro
+
+26.867 kr./md.
+
+5 værelser
+
+124 m
 2
 
 Reserveret
@@ -309,48 +312,52 @@ RESERVERET
 2
 
 Reserveret
+Delevenlig
+Altan
 
-Skindergade 44, 1., 1159 København K
+Saltholmsvej 2, 5., 2300 København S
 
 RESERVERET
 
-5-værelses lejlighed i indre by
+4-vær. penthouse med altan
 
-29.867 kr./md.
+24.075 kr./md.
 
-5 værelser
+4 værelser
 
-128 m
+107 m
 2
 
 Udlejet
 
-Nygårdsvej 16, 1. tv, 2100 København Ø
+Drogdensgade 2, 3. th, 2300 København S
 
 UDLEJET
 
-3 værelses lejlighed på Østerbro
+4-værelses lejlighed på Amager
 
-13.274 kr./md.
+16.545 kr./md.
 
-3 værelser
+4 værelser
 
-85 m
+104 m
 2
 
 Udlejet
+Delevenlig
+Altan
 
-Lyongade 12, 5. tv, 2300 København S
+Drogdensgade 2, 5. th, 2300 København S
 
 UDLEJET
 
-2-værelses lejlighed på Amager med altan
+4-værelses lejlighed med altan på Amager
 
-16.467 kr./md.
+22.500 kr./md.
 
-2 værelser
+4 værelser
 
-76 m
+100 m
 2
 
 Kereby ApS
