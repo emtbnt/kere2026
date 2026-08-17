@@ -85,7 +85,7 @@ Bjelkes Allé 18A, 5., 2200 København N
 
 2-værelses lejlighed tæt på metro og grønne områder
 
-17.325 kr./md.
+16.042 kr./md.
 
 2 værelser
 
@@ -143,22 +143,6 @@ RESERVERET
 Reserveret
 Elevator
 
-Falkoner Alle 79, 4. th, 2000 Frederiksberg
-
-RESERVERET
-
-5-værelses lejlighed på Frederiksberg (OBS kun 3 soveværelser)
-
-20.045 kr./md.
-
-5 værelser
-
-126 m
-2
-
-Reserveret
-Elevator
-
 Gammel Kongevej 136, 3. th, 1850 Frederiksberg C
 
 RESERVERET
@@ -172,13 +156,28 @@ RESERVERET
 135 m
 2
 
-Reserveret
+Udlejet
+
+Nyborggade 6, 5. th, 2100 København Ø
+
+UDLEJET
+
+2-værelses lejlighed på Østerbro
+
+9.730 kr./md.
+
+2 værelser
+
+59 m
+2
+
+Udlejet
 Delevenlig
 Altan
 
 Saltholmsvej 2, 5., 2300 København S
 
-RESERVERET
+UDLEJET
 
 4-vær. penthouse med altan
 
@@ -254,21 +253,6 @@ RESERVERET
 
 Reserveret
 
-Nyborggade 6, 5. th, 2100 København Ø
-
-RESERVERET
-
-2-værelses lejlighed på Østerbro
-
-9.730 kr./md.
-
-2 værelser
-
-59 m
-2
-
-Reserveret
-
 Amagerbrogade 118, 3. tv, 2300 København S
 
 RESERVERET
@@ -296,6 +280,22 @@ RESERVERET
 3 værelser
 
 74 m
+2
+
+Udlejet
+Elevator
+
+Falkoner Alle 79, 4. th, 2000 Frederiksberg
+
+UDLEJET
+
+5-værelses lejlighed på Frederiksberg (OBS kun 3 soveværelser)
+
+20.045 kr./md.
+
+5 værelser
+
+126 m
 2
 
 Kereby ApS
