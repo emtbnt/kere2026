@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-15 boliger fundet
+16 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,14 +34,14 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (15)
+Alle (16)
 Indre By
 Vesterbro
 Østerbro (3)
 Nørrebro (3)
 Valby
 Amager (5)
-Frederiksberg (4)
+Frederiksberg (5)
 Hellerup
 
 Værelser INKL. STUE
@@ -90,6 +90,133 @@ Bjelkes Allé 18A, 5., 2200 København N
 2 værelser
 
 77 m
+2
+
+Reserveret
+
+Woltersgade 9, 2. tv, 2300 København S
+
+RESERVERET
+
+3-værelses lejlighed på Amager
+
+9.179 kr./md.
+
+3 værelser
+
+58 m
+2
+
+Reserveret
+
+Hollændervej 21, 2. tv, 1855 Frederiksberg C
+
+RESERVERET
+
+4-værelses lejlighed på Frederiksberg
+
+16.652 kr./md.
+
+4 værelser
+
+102 m
+2
+
+Reserveret
+
+Sundbyvester Plads 9, 4. tv, 2300 København S
+
+RESERVERET
+
+3-værelses lejlighed på Amager
+
+9.944 kr./md.
+
+3 værelser
+
+63 m
+2
+
+Reserveret
+
+Amagerbrogade 118, 3. tv, 2300 København S
+
+RESERVERET
+
+3-værelses lejlighed på Amager
+
+14.679 kr./md.
+
+3 værelser
+
+93 m
+2
+
+Udlejet
+
+Nyborggade 6, 5. th, 2100 København Ø
+
+UDLEJET
+
+2-værelses lejlighed på Østerbro
+
+9.730 kr./md.
+
+2 værelser
+
+59 m
+2
+
+Udlejet
+Delevenlig
+
+Brohusgade 20, st., 2200 København N
+
+UDLEJET
+
+3-værelses lejlighed på Nørrebro
+
+19.733 kr./md.
+
+3 værelser
+
+74 m
+2
+
+Erhvervslokale?
+
+Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+
+Penthouse
+Tagterrasse
+
+Sortedam Dossering 45, 5. tv, 2200 København N
+
+Fantastisk penthouselejlighed lige ved Søerne
+
+25.650 kr./md.
+
+3 værelser
+
+114 m
+2
+
+Reserveret
+Delevenlig
+Penthouse
+Altan
+
+Franckesvej 8, 5., 2000 Frederiksberg
+
+RESERVERET
+
+3-værelses lejlighed på Frederiksberg
+
+13.156 kr./md.
+
+3 værelser
+
+81 m
 2
 
 Reserveret
@@ -187,115 +314,6 @@ UDLEJET
 4 værelser
 
 107 m
-2
-
-Erhvervslokale?
-
-Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
-
-Penthouse
-Tagterrasse
-
-Sortedam Dossering 45, 5. tv, 2200 København N
-
-Fantastisk penthouselejlighed lige ved Søerne
-
-25.650 kr./md.
-
-3 værelser
-
-114 m
-2
-
-Reserveret
-
-Woltersgade 9, 2. tv, 2300 København S
-
-RESERVERET
-
-3-værelses lejlighed på Amager
-
-9.179 kr./md.
-
-3 værelser
-
-58 m
-2
-
-Reserveret
-
-Hollændervej 21, 2. tv, 1855 Frederiksberg C
-
-RESERVERET
-
-4-værelses lejlighed på Frederiksberg
-
-16.652 kr./md.
-
-4 værelser
-
-102 m
-2
-
-Reserveret
-
-Sundbyvester Plads 9, 4. tv, 2300 København S
-
-RESERVERET
-
-3-værelses lejlighed på Amager
-
-9.944 kr./md.
-
-3 værelser
-
-63 m
-2
-
-Reserveret
-
-Amagerbrogade 118, 3. tv, 2300 København S
-
-RESERVERET
-
-3-værelses lejlighed på Amager
-
-14.679 kr./md.
-
-3 værelser
-
-93 m
-2
-
-Udlejet
-
-Nyborggade 6, 5. th, 2100 København Ø
-
-UDLEJET
-
-2-værelses lejlighed på Østerbro
-
-9.730 kr./md.
-
-2 værelser
-
-59 m
-2
-
-Udlejet
-Delevenlig
-
-Brohusgade 20, st., 2200 København N
-
-UDLEJET
-
-3-værelses lejlighed på Nørrebro
-
-19.733 kr./md.
-
-3 værelser
-
-74 m
 2
 
 Kereby ApS
