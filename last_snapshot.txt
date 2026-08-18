@@ -157,18 +157,19 @@ RESERVERET
 2
 
 Udlejet
+Elevator
 
-Nyborggade 6, 5. th, 2100 København Ø
+Falkoner Alle 79, 4. th, 2000 Frederiksberg
 
 UDLEJET
 
-2-værelses lejlighed på Østerbro
+5-værelses lejlighed på Frederiksberg (OBS kun 3 soveværelser)
 
-9.730 kr./md.
+20.045 kr./md.
 
-2 værelser
+5 værelser
 
-59 m
+126 m
 2
 
 Udlejet
@@ -266,12 +267,27 @@ RESERVERET
 93 m
 2
 
-Reserveret
+Udlejet
+
+Nyborggade 6, 5. th, 2100 København Ø
+
+UDLEJET
+
+2-værelses lejlighed på Østerbro
+
+9.730 kr./md.
+
+2 værelser
+
+59 m
+2
+
+Udlejet
 Delevenlig
 
 Brohusgade 20, st., 2200 København N
 
-RESERVERET
+UDLEJET
 
 3-værelses lejlighed på Nørrebro
 
@@ -280,22 +296,6 @@ RESERVERET
 3 værelser
 
 74 m
-2
-
-Udlejet
-Elevator
-
-Falkoner Alle 79, 4. th, 2000 Frederiksberg
-
-UDLEJET
-
-5-værelses lejlighed på Frederiksberg (OBS kun 3 soveværelser)
-
-20.045 kr./md.
-
-5 værelser
-
-126 m
 2
 
 Kereby ApS
