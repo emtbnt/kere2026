@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-14 boliger fundet
+15 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,13 +34,13 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (14)
+Alle (15)
 Indre By
-Vesterbro
-Østerbro (3)
+Vesterbro (1)
+Østerbro (4)
 Nørrebro (2)
 Valby
-Amager (5)
+Amager (4)
 Frederiksberg (4)
 Hellerup
 
@@ -67,29 +67,47 @@ Tagterrasse
 Delevenlig
 Altan
 Ryd filter
+Altan
+
+Stormgade 35, 4. th, 1555 København V
+
+7-værelses lejlighed på Vesterbro OBS: (Udlejes ikke til bofællesskaber)
+
+32.209 kr./md.
+
+7 værelser
+
+203 m
+2
+
 Penthouse
 Tagterrasse
 
-Strandboulevarden 61, 5. th, 2100 København Ø
+Sortedam Dossering 45, 5. tv, 2200 København N
 
-4-værelses lejlighed på Østerbro
+Fantastisk penthouselejlighed lige ved Søerne
 
-28.350 kr./md.
+25.650 kr./md.
 
-4 værelser
+3 værelser
 
-126 m
+114 m
 2
 
-Bjelkes Allé 18A, 5., 2200 København N
+Reserveret
+Tagterrasse
 
-2-værelses lejlighed tæt på metro og grønne områder
+Nygårdsvej 16B, st. 3, 2100 København Ø
 
-16.042 kr./md.
+RESERVERET
 
-2 værelser
+1-værelses lejlighed på Østerbro
 
-77 m
+9.854 kr./md.
+
+1 værelse
+
+43 m
 2
 
 Reserveret
@@ -139,25 +157,26 @@ RESERVERET
 2
 
 Reserveret
+Elevator
 
-Sundbyvester Plads 9, 4. tv, 2300 København S
+Falkoner Alle 12B, 4. th, 2000 Frederiksberg
 
 RESERVERET
 
-3-værelses lejlighed på Amager
+5-værelses lejlighed på Frederiksberg
 
-9.944 kr./md.
+17.856 kr./md.
 
-3 værelser
+5 værelser
 
-63 m
+108 m
 2
 
-Reserveret
+Udlejet
 
 Amagerbrogade 118, 3. tv, 2300 København S
 
-RESERVERET
+UDLEJET
 
 3-værelses lejlighed på Amager
 
@@ -175,15 +194,26 @@ Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
 Penthouse
 Tagterrasse
 
-Sortedam Dossering 45, 5. tv, 2200 København N
+Strandboulevarden 61, 5. th, 2100 København Ø
 
-Fantastisk penthouselejlighed lige ved Søerne
+4-værelses lejlighed på Østerbro
 
-25.650 kr./md.
+28.350 kr./md.
 
-3 værelser
+4 værelser
 
-114 m
+126 m
+2
+
+Bjelkes Allé 18A, 5., 2200 København N
+
+2-værelses lejlighed tæt på metro og grønne områder
+
+16.042 kr./md.
+
+2 værelser
+
+77 m
 2
 
 Reserveret
@@ -245,22 +275,6 @@ RESERVERET
 5-værelses lejlighed på Amager
 
 25.650 kr./md.
-
-5 værelser
-
-108 m
-2
-
-Reserveret
-Elevator
-
-Falkoner Alle 12B, 4. th, 2000 Frederiksberg
-
-RESERVERET
-
-5-værelses lejlighed på Frederiksberg
-
-17.856 kr./md.
 
 5 værelser
 
