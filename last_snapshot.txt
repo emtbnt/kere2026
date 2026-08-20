@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-15 boliger fundet
+16 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,14 +34,14 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (15)
+Alle (16)
 Indre By
 Vesterbro (1)
 Østerbro (4)
 Nørrebro (2)
 Valby
 Amager (4)
-Frederiksberg (4)
+Frederiksberg (5)
 Hellerup
 
 Værelser INKL. STUE
@@ -92,6 +92,131 @@ Fantastisk penthouselejlighed lige ved Søerne
 3 værelser
 
 114 m
+2
+
+Reserveret
+Delevenlig
+
+Gammel Kongevej 138D, 1., 1850 Frederiksberg C
+
+RESERVERET
+
+5-værelses lejlighed på Frederiksberg
+
+20.140 kr./md.
+
+5 værelser
+
+124 m
+2
+
+Reserveret
+
+Ved Klosteret 6, 1. tv, 2100 København Ø
+
+RESERVERET
+
+4-værelses lejlighed på Østerbro
+
+17.676 kr./md.
+
+4 værelser
+
+108 m
+2
+
+Reserveret
+Delevenlig
+Penthouse
+Altan
+
+Franckesvej 8, 5., 2000 Frederiksberg
+
+RESERVERET
+
+3-værelses lejlighed på Frederiksberg
+
+13.156 kr./md.
+
+3 værelser
+
+81 m
+2
+
+Reserveret
+
+Nygårdsvej 16, 2. tv, 2100 København Ø
+
+RESERVERET
+
+3-værelses lejlighed på Østerbro
+
+13.699 kr./md.
+
+3 værelser
+
+85 m
+2
+
+Reserveret
+Penthouse
+Altan
+
+Amagerbrogade 111, 5., 2300 København S
+
+RESERVERET
+
+5-værelses lejlighed på Amager
+
+25.650 kr./md.
+
+5 værelser
+
+108 m
+2
+
+Udlejet
+
+Amagerbrogade 118, 3. tv, 2300 København S
+
+UDLEJET
+
+3-værelses lejlighed på Amager
+
+14.679 kr./md.
+
+3 værelser
+
+93 m
+2
+
+Erhvervslokale?
+
+Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+
+Penthouse
+Tagterrasse
+
+Strandboulevarden 61, 5. th, 2100 København Ø
+
+4-værelses lejlighed på Østerbro
+
+28.350 kr./md.
+
+4 værelser
+
+126 m
+2
+
+Bjelkes Allé 18A, 5., 2200 København N
+
+2-værelses lejlighed tæt på metro og grønne områder
+
+16.042 kr./md.
+
+2 værelser
+
+77 m
 2
 
 Reserveret
@@ -185,115 +310,6 @@ UDLEJET
 5 værelser
 
 135 m
-2
-
-Erhvervslokale?
-
-Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
-
-Penthouse
-Tagterrasse
-
-Strandboulevarden 61, 5. th, 2100 København Ø
-
-4-værelses lejlighed på Østerbro
-
-28.350 kr./md.
-
-4 værelser
-
-126 m
-2
-
-Bjelkes Allé 18A, 5., 2200 København N
-
-2-værelses lejlighed tæt på metro og grønne områder
-
-16.042 kr./md.
-
-2 værelser
-
-77 m
-2
-
-Reserveret
-
-Ved Klosteret 6, 1. tv, 2100 København Ø
-
-RESERVERET
-
-4-værelses lejlighed på Østerbro
-
-17.676 kr./md.
-
-4 værelser
-
-108 m
-2
-
-Reserveret
-Delevenlig
-Penthouse
-Altan
-
-Franckesvej 8, 5., 2000 Frederiksberg
-
-RESERVERET
-
-3-værelses lejlighed på Frederiksberg
-
-13.156 kr./md.
-
-3 værelser
-
-81 m
-2
-
-Reserveret
-
-Nygårdsvej 16, 2. tv, 2100 København Ø
-
-RESERVERET
-
-3-værelses lejlighed på Østerbro
-
-13.699 kr./md.
-
-3 værelser
-
-85 m
-2
-
-Reserveret
-Penthouse
-Altan
-
-Amagerbrogade 111, 5., 2300 København S
-
-RESERVERET
-
-5-værelses lejlighed på Amager
-
-25.650 kr./md.
-
-5 værelser
-
-108 m
-2
-
-Udlejet
-
-Amagerbrogade 118, 3. tv, 2300 København S
-
-UDLEJET
-
-3-værelses lejlighed på Amager
-
-14.679 kr./md.
-
-3 værelser
-
-93 m
 2
 
 Kereby ApS
