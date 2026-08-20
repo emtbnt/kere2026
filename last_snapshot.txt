@@ -174,17 +174,17 @@ RESERVERET
 
 Udlejet
 
-Amagerbrogade 118, 3. tv, 2300 København S
+Gammel Kongevej 136, 3. th, 1850 Frederiksberg C
 
 UDLEJET
 
-3-værelses lejlighed på Amager
+5-værelses lejlighed på Frederiksberg (Familiebolig)
 
-14.679 kr./md.
+22.208 kr./md.
 
-3 værelser
+5 værelser
 
-93 m
+135 m
 2
 
 Erhvervslokale?
@@ -281,19 +281,19 @@ RESERVERET
 108 m
 2
 
-Reserveret
+Udlejet
 
-Gammel Kongevej 136, 3. th, 1850 Frederiksberg C
+Amagerbrogade 118, 3. tv, 2300 København S
 
-RESERVERET
+UDLEJET
 
-5-værelses lejlighed på Frederiksberg (Familiebolig)
+3-værelses lejlighed på Amager
 
-22.208 kr./md.
+14.679 kr./md.
 
-5 værelser
+3 værelser
 
-135 m
+93 m
 2
 
 Kereby ApS
