@@ -153,16 +153,15 @@ RESERVERET
 2
 
 Reserveret
-Penthouse
-Altan
+Elevator
 
-Amagerbrogade 111, 5., 2300 København S
+Falkoner Alle 12B, 4. th, 2000 Frederiksberg
 
 RESERVERET
 
-5-værelses lejlighed på Amager
+5-værelses lejlighed på Frederiksberg
 
-25.650 kr./md.
+17.856 kr./md.
 
 5 værelser
 
@@ -171,17 +170,17 @@ RESERVERET
 
 Udlejet
 
-Nygårdsvej 16, 2. tv, 2100 København Ø
+Hollændervej 21, 2. tv, 1855 Frederiksberg C
 
 UDLEJET
 
-3-værelses lejlighed på Østerbro
+4-værelses lejlighed på Frederiksberg
 
-13.699 kr./md.
+16.652 kr./md.
 
-3 værelser
+4 værelser
 
-85 m
+102 m
 2
 
 Udlejet
@@ -280,34 +279,35 @@ RESERVERET
 2
 
 Reserveret
+Penthouse
+Altan
 
-Hollændervej 21, 2. tv, 1855 Frederiksberg C
-
-RESERVERET
-
-4-værelses lejlighed på Frederiksberg
-
-16.652 kr./md.
-
-4 værelser
-
-102 m
-2
-
-Reserveret
-Elevator
-
-Falkoner Alle 12B, 4. th, 2000 Frederiksberg
+Amagerbrogade 111, 5., 2300 København S
 
 RESERVERET
 
-5-værelses lejlighed på Frederiksberg
+5-værelses lejlighed på Amager
 
-17.856 kr./md.
+25.650 kr./md.
 
 5 værelser
 
 108 m
+2
+
+Udlejet
+
+Nygårdsvej 16, 2. tv, 2100 København Ø
+
+UDLEJET
+
+3-værelses lejlighed på Østerbro
+
+13.699 kr./md.
+
+3 værelser
+
+85 m
 2
 
 Udlejet
