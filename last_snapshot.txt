@@ -67,9 +67,36 @@ Tagterrasse
 Delevenlig
 Altan
 Ryd filter
+Altan
+
+Stormgade 35, 4. th, 1555 København V
+
+7-værelses lejlighed på Vesterbro OBS: (Udlejes ikke til bofællesskaber)
+
+32.209 kr./md.
+
+7 værelser
+
+203 m
+2
+
+Bjelkes Allé 18A, 5., 2200 København N
+
+2-værelses lejlighed tæt på metro og grønne områder
+
+16.042 kr./md.
+
+2 værelser
+
+77 m
+2
+
+Reserveret
 Delevenlig
 
 Roskildevej 47, st., 2000 Frederiksberg
+
+RESERVERET
 
 6-værelses lejlighed på Frederiksberg
 
@@ -78,31 +105,6 @@ Roskildevej 47, st., 2000 Frederiksberg
 6 værelser
 
 160 m
-2
-
-Penthouse
-Tagterrasse
-
-Strandboulevarden 61, 5. th, 2100 København Ø
-
-4-værelses lejlighed på Østerbro
-
-28.350 kr./md.
-
-4 værelser
-
-126 m
-2
-
-Amagerbrogade 238A, 1. tv, 2300 København S
-
-2-værelses lejlighed på Amager
-
-12.116 kr./md.
-
-2 værelser
-
-67 m
 2
 
 Reserveret
@@ -207,28 +209,33 @@ Erhvervslokale?
 
 Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
 
-Altan
+Penthouse
+Tagterrasse
 
-Stormgade 35, 4. th, 1555 København V
+Strandboulevarden 61, 5. th, 2100 København Ø
 
-7-værelses lejlighed på Vesterbro OBS: (Udlejes ikke til bofællesskaber)
+4-værelses lejlighed på Østerbro
 
-32.209 kr./md.
+28.350 kr./md.
 
-7 værelser
+4 værelser
 
-203 m
+126 m
 2
 
-Bjelkes Allé 18A, 5., 2200 København N
+Reserveret
 
-2-værelses lejlighed tæt på metro og grønne områder
+Amagerbrogade 238A, 1. tv, 2300 København S
 
-16.042 kr./md.
+RESERVERET
+
+2-værelses lejlighed på Amager
+
+12.116 kr./md.
 
 2 værelser
 
-77 m
+67 m
 2
 
 Reserveret
