@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-18 boliger fundet
+19 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,10 +34,10 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (18)
+Alle (19)
 Indre By
 Vesterbro (1)
-Østerbro (4)
+Østerbro (5)
 Nørrebro (2)
 Valby
 Amager (5)
@@ -80,15 +80,17 @@ Stormgade 35, 4. th, 1555 København V
 203 m
 2
 
-Bjelkes Allé 18A, 5., 2200 København N
+Delevenlig
 
-2-værelses lejlighed tæt på metro og grønne områder
+Herninggade 26, st., 2100 København Ø
 
-16.042 kr./md.
+4 vær. på Østerbro(Lav stuelejlighed)
 
-2 værelser
+21.600 kr./md.
 
-77 m
+4 værelser
+
+96 m
 2
 
 Reserveret
@@ -121,6 +123,162 @@ RESERVERET
 1 værelse
 
 43 m
+2
+
+Reserveret
+
+Bjelkes Allé 18A, 5., 2200 København N
+
+RESERVERET
+
+2-værelses lejlighed tæt på metro og grønne områder
+
+16.042 kr./md.
+
+2 værelser
+
+77 m
+2
+
+Udlejet
+Altan
+
+Rodosvej 5, 4. tv, 2300 København S
+
+UDLEJET
+
+2-værelses lejlighed på Amager
+
+9.653 kr./md.
+
+2 værelser
+
+61 m
+2
+
+Udlejet
+
+Woltersgade 9, 2. tv, 2300 København S
+
+UDLEJET
+
+3-værelses lejlighed på Amager
+
+9.179 kr./md.
+
+3 værelser
+
+58 m
+2
+
+Udlejet
+
+Hollændervej 21, 2. tv, 1855 Frederiksberg C
+
+UDLEJET
+
+4-værelses lejlighed på Frederiksberg
+
+16.652 kr./md.
+
+4 værelser
+
+102 m
+2
+
+Udlejet
+Elevator
+
+Falkoner Alle 12B, 4. th, 2000 Frederiksberg
+
+UDLEJET
+
+5-værelses lejlighed på Frederiksberg
+
+17.856 kr./md.
+
+5 værelser
+
+108 m
+2
+
+Udlejet
+
+Gammel Kongevej 136, 3. th, 1850 Frederiksberg C
+
+UDLEJET
+
+5-værelses lejlighed på Frederiksberg (Familiebolig)
+
+22.208 kr./md.
+
+5 værelser
+
+135 m
+2
+
+Erhvervslokale?
+
+Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+
+Penthouse
+Tagterrasse
+
+Strandboulevarden 61, 5. th, 2100 København Ø
+
+4-værelses lejlighed på Østerbro
+
+28.350 kr./md.
+
+4 værelser
+
+126 m
+2
+
+Reserveret
+
+Amagerbrogade 238A, 1. tv, 2300 København S
+
+RESERVERET
+
+2-værelses lejlighed på Amager
+
+12.116 kr./md.
+
+2 værelser
+
+67 m
+2
+
+Reserveret
+Delevenlig
+
+Gammel Kongevej 138D, 1., 1850 Frederiksberg C
+
+RESERVERET
+
+5-værelses lejlighed på Frederiksberg
+
+20.140 kr./md.
+
+5 værelser
+
+124 m
+2
+
+Reserveret
+
+Ved Klosteret 6, 1. tv, 2100 København Ø
+
+RESERVERET
+
+4-værelses lejlighed på Østerbro
+
+17.676 kr./md.
+
+4 værelser
+
+108 m
 2
 
 Reserveret
@@ -203,147 +361,6 @@ UDLEJET
 3 værelser
 
 93 m
-2
-
-Erhvervslokale?
-
-Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
-
-Penthouse
-Tagterrasse
-
-Strandboulevarden 61, 5. th, 2100 København Ø
-
-4-værelses lejlighed på Østerbro
-
-28.350 kr./md.
-
-4 værelser
-
-126 m
-2
-
-Reserveret
-
-Amagerbrogade 238A, 1. tv, 2300 København S
-
-RESERVERET
-
-2-værelses lejlighed på Amager
-
-12.116 kr./md.
-
-2 værelser
-
-67 m
-2
-
-Reserveret
-Delevenlig
-
-Gammel Kongevej 138D, 1., 1850 Frederiksberg C
-
-RESERVERET
-
-5-værelses lejlighed på Frederiksberg
-
-20.140 kr./md.
-
-5 værelser
-
-124 m
-2
-
-Reserveret
-
-Ved Klosteret 6, 1. tv, 2100 København Ø
-
-RESERVERET
-
-4-værelses lejlighed på Østerbro
-
-17.676 kr./md.
-
-4 værelser
-
-108 m
-2
-
-Udlejet
-Altan
-
-Rodosvej 5, 4. tv, 2300 København S
-
-UDLEJET
-
-2-værelses lejlighed på Amager
-
-9.653 kr./md.
-
-2 værelser
-
-61 m
-2
-
-Udlejet
-
-Woltersgade 9, 2. tv, 2300 København S
-
-UDLEJET
-
-3-værelses lejlighed på Amager
-
-9.179 kr./md.
-
-3 værelser
-
-58 m
-2
-
-Udlejet
-
-Hollændervej 21, 2. tv, 1855 Frederiksberg C
-
-UDLEJET
-
-4-værelses lejlighed på Frederiksberg
-
-16.652 kr./md.
-
-4 værelser
-
-102 m
-2
-
-Udlejet
-Elevator
-
-Falkoner Alle 12B, 4. th, 2000 Frederiksberg
-
-UDLEJET
-
-5-værelses lejlighed på Frederiksberg
-
-17.856 kr./md.
-
-5 værelser
-
-108 m
-2
-
-Udlejet
-
-Gammel Kongevej 136, 3. th, 1850 Frederiksberg C
-
-UDLEJET
-
-5-værelses lejlighed på Frederiksberg (Familiebolig)
-
-22.208 kr./md.
-
-5 værelser
-
-135 m
 2
 
 Kereby ApS
