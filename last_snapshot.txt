@@ -110,33 +110,32 @@ Fantastisk penthouselejlighed lige ved Søerne
 Reserveret
 Delevenlig
 
-Amagerbrogade 120, 5., 2300 København S
+Herninggade 26, st., 2100 København Ø
 
 RESERVERET
 
-5-værelses lejlighed på Amager
+4 vær. på Østerbro(Lav stuelejlighed)
 
-21.195 kr./md.
+21.600 kr./md.
 
-5 værelser
+4 værelser
 
-135 m
+96 m
 2
 
 Reserveret
-Altan
 
-Allersgade 1, 2. th, 2200 København N
+Drogdensgade 22, st. th, 2300 København S
 
 RESERVERET
 
-2-værelses lejlighed på Nørrebro
+4-værelses lejlighed på Amager
 
-11.896 kr./md.
+14.270 kr./md.
 
-2 værelser
+4 værelser
 
-74 m
+89 m
 2
 
 Reserveret
@@ -155,19 +154,20 @@ RESERVERET
 124 m
 2
 
-Reserveret
+Udlejet
+Tagterrasse
 
-Bjelkes Allé 18A, 5., 2200 København N
+Nygårdsvej 16B, st. 3, 2100 København Ø
 
-RESERVERET
+UDLEJET
 
-2-værelses lejlighed tæt på metro og grønne områder
+1-værelses lejlighed på Østerbro
 
-16.042 kr./md.
+9.854 kr./md.
 
-2 værelser
+1 værelse
 
-77 m
+43 m
 2
 
 Udlejet
@@ -216,42 +216,7 @@ Strandboulevarden 61, 5. th, 2100 København Ø
 126 m
 2
 
-Reserveret
-Delevenlig
-
-Herninggade 26, st., 2100 København Ø
-
-RESERVERET
-
-4 vær. på Østerbro(Lav stuelejlighed)
-
-21.600 kr./md.
-
-4 værelser
-
-96 m
-2
-
-Reserveret
-
-Drogdensgade 22, st. th, 2300 København S
-
-RESERVERET
-
-4-værelses lejlighed på Amager
-
-14.270 kr./md.
-
-4 værelser
-
-89 m
-2
-
-Reserveret
-
 Amagerbrogade 238A, 1. tv, 2300 København S
-
-RESERVERET
 
 2-værelses lejlighed på Amager
 
@@ -263,10 +228,57 @@ RESERVERET
 2
 
 Reserveret
+Delevenlig
+
+Amagerbrogade 120, 5., 2300 København S
+
+RESERVERET
+
+5-værelses lejlighed på Amager
+
+21.195 kr./md.
+
+5 værelser
+
+135 m
+2
+
+Reserveret
+Altan
+
+Allersgade 1, 2. th, 2200 København N
+
+RESERVERET
+
+2-værelses lejlighed på Nørrebro
+
+11.896 kr./md.
+
+2 værelser
+
+74 m
+2
+
+Reserveret
+
+Bjelkes Allé 18A, 5., 2200 København N
+
+RESERVERET
+
+2-værelses lejlighed tæt på metro og grønne områder
+
+16.042 kr./md.
+
+2 værelser
+
+77 m
+2
+
+Udlejet
 
 Ved Klosteret 6, 1. tv, 2100 København Ø
 
-RESERVERET
+UDLEJET
 
 4-værelses lejlighed på Østerbro
 
@@ -275,22 +287,6 @@ RESERVERET
 4 værelser
 
 108 m
-2
-
-Udlejet
-Tagterrasse
-
-Nygårdsvej 16B, st. 3, 2100 København Ø
-
-UDLEJET
-
-1-værelses lejlighed på Østerbro
-
-9.854 kr./md.
-
-1 værelse
-
-43 m
 2
 
 Udlejet
