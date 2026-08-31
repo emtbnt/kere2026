@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-16 boliger fundet
+15 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,13 +34,13 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (16)
+Alle (15)
 Indre By (1)
 Vesterbro (1)
 Østerbro (5)
 Nørrebro (3)
 Valby
-Amager (3)
+Amager (2)
 Frederiksberg (3)
 Hellerup
 
@@ -105,126 +105,6 @@ Fantastisk penthouselejlighed lige ved Søerne
 3 værelser
 
 114 m
-2
-
-Reserveret
-Delevenlig
-
-Herninggade 26, st., 2100 København Ø
-
-RESERVERET
-
-4 vær. på Østerbro(Lav stuelejlighed)
-
-21.600 kr./md.
-
-4 værelser
-
-96 m
-2
-
-Reserveret
-
-Drogdensgade 22, st. th, 2300 København S
-
-RESERVERET
-
-4-værelses lejlighed på Amager
-
-14.270 kr./md.
-
-4 værelser
-
-89 m
-2
-
-Reserveret
-Delevenlig
-
-Gammel Kongevej 138D, 1., 1850 Frederiksberg C
-
-RESERVERET
-
-5-værelses lejlighed på Frederiksberg
-
-20.140 kr./md.
-
-5 værelser
-
-124 m
-2
-
-Udlejet
-Tagterrasse
-
-Nygårdsvej 16B, st. 3, 2100 København Ø
-
-UDLEJET
-
-1-værelses lejlighed på Østerbro
-
-9.854 kr./md.
-
-1 værelse
-
-43 m
-2
-
-Udlejet
-
-Nygårdsvej 16, 2. tv, 2100 København Ø
-
-UDLEJET
-
-3-værelses lejlighed på Østerbro
-
-13.699 kr./md.
-
-3 værelser
-
-85 m
-2
-
-Erhvervslokale?
-
-Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
-
-Elevator
-
-Christian IX's Gade 5, 2. tv, 1111 København K
-
-4-værelses lejlighed i Indre by
-
-32.938 kr./md.
-
-4 værelser
-
-155 m
-2
-
-Penthouse
-Tagterrasse
-
-Strandboulevarden 61, 5. th, 2100 København Ø
-
-4-værelses lejlighed på Østerbro
-
-26.250 kr./md.
-
-4 værelser
-
-126 m
-2
-
-Amagerbrogade 238A, 1. tv, 2300 København S
-
-2-værelses lejlighed på Amager
-
-12.116 kr./md.
-
-2 værelser
-
-67 m
 2
 
 Reserveret
@@ -303,6 +183,115 @@ UDLEJET
 5 værelser
 
 108 m
+2
+
+Erhvervslokale?
+
+Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+
+Elevator
+
+Christian IX's Gade 5, 2. tv, 1111 København K
+
+4-værelses lejlighed i Indre by
+
+32.938 kr./md.
+
+4 værelser
+
+155 m
+2
+
+Penthouse
+Tagterrasse
+
+Strandboulevarden 61, 5. th, 2100 København Ø
+
+4-værelses lejlighed på Østerbro
+
+26.250 kr./md.
+
+4 værelser
+
+126 m
+2
+
+Reserveret
+Delevenlig
+
+Herninggade 26, st., 2100 København Ø
+
+RESERVERET
+
+4 vær. på Østerbro(Lav stuelejlighed)
+
+21.600 kr./md.
+
+4 værelser
+
+96 m
+2
+
+Reserveret
+
+Drogdensgade 22, st. th, 2300 København S
+
+RESERVERET
+
+4-værelses lejlighed på Amager
+
+14.270 kr./md.
+
+4 værelser
+
+89 m
+2
+
+Reserveret
+Delevenlig
+
+Gammel Kongevej 138D, 1., 1850 Frederiksberg C
+
+RESERVERET
+
+5-værelses lejlighed på Frederiksberg
+
+20.140 kr./md.
+
+5 værelser
+
+124 m
+2
+
+Udlejet
+Tagterrasse
+
+Nygårdsvej 16B, st. 3, 2100 København Ø
+
+UDLEJET
+
+1-værelses lejlighed på Østerbro
+
+9.854 kr./md.
+
+1 værelse
+
+43 m
+2
+
+Udlejet
+
+Nygårdsvej 16, 2. tv, 2100 København Ø
+
+UDLEJET
+
+3-værelses lejlighed på Østerbro
+
+13.699 kr./md.
+
+3 værelser
+
+85 m
 2
 
 Kereby ApS
