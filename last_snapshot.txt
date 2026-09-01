@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-14 boliger fundet
+16 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,11 +34,11 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (14)
-Indre By (1)
+Alle (16)
+Indre By (2)
 Vesterbro (1)
 Østerbro (5)
-Nørrebro (1)
+Nørrebro (2)
 Valby
 Amager (3)
 Frederiksberg (3)
@@ -105,6 +105,23 @@ Fantastisk penthouselejlighed lige ved Søerne
 3 værelser
 
 114 m
+2
+
+Reserveret
+Elevator
+Altan
+
+Griffenfeldsgade 6, 4. th, 2200 København N
+
+RESERVERET
+
+Delevenlig lejlighed centralt på Nørrebro
+
+18.113 kr./md.
+
+3 værelser
+
+100 m
 2
 
 Reserveret
@@ -198,6 +215,21 @@ Strandboulevarden 61, 5. th, 2100 København Ø
 4 værelser
 
 126 m
+2
+
+Reserveret
+
+Store Kongensgade 11, 3. th, 1264 København K
+
+RESERVERET
+
+3-værelses lejlighed i indre by
+
+14.528 kr./md.
+
+3 værelser
+
+90 m
 2
 
 Reserveret
