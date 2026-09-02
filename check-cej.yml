@@ -1,0 +1,59 @@
+name: Monitor CEJ listings
+
+on:
+  schedule:
+    # Fallback only — fires if the self-trigger somehow fails.
+    - cron: "30 * * * *"  # offset from Kereby's cron to avoid simultaneous startups
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install playwright requests
+          playwright install --with-deps chromium
+
+      - name: Run monitor loop (30-second interval for 58 minutes)
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          CHECK_INTERVAL_SECONDS: "30"
+          LOOP_DURATION_MINUTES: "58"
+          MONITOR_URL: "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&minRooms=2&monthlyPrice=0-13600&p=k%C3%B8benhavn%2Cfrederiksberg"
+          SNAPSHOT_FILE: "last_snapshot_cej.txt"
+          HASH_FILE: "last_hash_cej.txt"
+          NOTIFY_TITLE: "CEJ listing change!"
+          NOTIFY_BODY: "The CEJ rental listings changed — check it now: https://udlejning.cej.dk/find-bolig/overblik?collection=residences&minRooms=2&monthlyPrice=0-13600&p=k%C3%B8benhavn%2Cfrederiksberg"
+        run: python monitor.py
+
+      - name: Commit updated snapshot
+        if: always()
+        run: |
+          git config user.name "kereby-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add last_hash_cej.txt last_snapshot_cej.txt
+          git diff --quiet --cached || git commit -m "Update CEJ snapshot [skip ci]"
+          git push
+
+      - name: Trigger next run immediately
+        if: always()
+        run: |
+          curl -s -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/check-cej.yml/dispatches \
+            -d '{"ref":"main"}'
