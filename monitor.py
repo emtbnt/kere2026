@@ -1,18 +1,18 @@
 """
-Kereby apartment listing monitor.
+Rental listing monitor — works for Kereby, CEJ, and any JS-rendered site.
 
-Loads the (JavaScript-rendered) Kereby rental page with Playwright,
-extracts the visible listing text, and compares it to the last saved
-snapshot. If it changed, sends a push notification via ntfy.sh.
+Loads the page with a real browser, optionally scopes to a CSS selector,
+strips common volatile noise, hashes the result, and notifies via ntfy.sh
+if anything changed.
 
-Designed to run as a long-lived loop inside a single GitHub Actions job
-(see .github/workflows/check.yml). The job is triggered hourly; this
-script then loops every CHECK_INTERVAL_SECONDS for LOOP_DURATION_MINUTES,
-giving near-real-time (30-second) coverage on GitHub's free tier.
+Runs as a long-lived loop inside a GitHub Actions job (see
+.github/workflows/check.yml and check-cej.yml). Each workflow triggers
+itself at the end so checks happen reliably every ~30 seconds.
 """
 
 import hashlib
 import os
+import re
 import sys
 import time
 from datetime import datetime, timedelta
@@ -21,27 +21,52 @@ import requests
 from playwright.sync_api import sync_playwright
 
 # All settings configurable via environment variables (set in each workflow)
-URL           = os.environ.get("MONITOR_URL",   "https://kerebyudlejning.dk/")
-SNAPSHOT_FILE = os.environ.get("SNAPSHOT_FILE", "last_snapshot.txt")
-HASH_FILE     = os.environ.get("HASH_FILE",     "last_hash.txt")
-NTFY_TOPIC    = os.environ.get("NTFY_TOPIC",    "")
-NOTIFY_TITLE  = os.environ.get("NOTIFY_TITLE",  "Listing change!")
-NOTIFY_BODY   = os.environ.get("NOTIFY_BODY",   f"The rental page changed — check it now: {URL}")
-CHECK_INTERVAL = int(os.environ.get("CHECK_INTERVAL_SECONDS",  "30"))
-LOOP_MINUTES   = int(os.environ.get("LOOP_DURATION_MINUTES",   "58"))
+URL            = os.environ.get("MONITOR_URL",            "https://kerebyudlejning.dk/")
+SNAPSHOT_FILE  = os.environ.get("SNAPSHOT_FILE",          "last_snapshot.txt")
+HASH_FILE      = os.environ.get("HASH_FILE",              "last_hash.txt")
+NTFY_TOPIC     = os.environ.get("NTFY_TOPIC",             "")
+NOTIFY_TITLE   = os.environ.get("NOTIFY_TITLE",           "Listing change!")
+NOTIFY_BODY    = os.environ.get("NOTIFY_BODY",            f"The rental page changed — check it now: {URL}")
+SELECTOR       = os.environ.get("SELECTOR",               "")   # optional CSS selector
+CHECK_INTERVAL = int(os.environ.get("CHECK_INTERVAL_SECONDS", "30"))
+LOOP_MINUTES   = int(os.environ.get("LOOP_DURATION_MINUTES",  "58"))
+
+# Lines matching these patterns change every page load and carry no listing
+# information — strip them before hashing to avoid false positives.
+_NOISE = re.compile(
+    r"^\s*("
+    r"\d{10,}"                                                              # unix timestamps / long IDs
+    r"|[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}"    # UUIDs
+    r"|\d{4}-\d{2}-\d{2}T\d{2}:\d{2}"                                     # ISO datetimes
+    r"|[A-Za-z0-9+/]{40,}={0,2}"                                           # base64 tokens
+    r")\s*$"
+)
 
 
 def fetch_listing_text() -> str:
-    """Render the page with a real browser and return the visible text."""
+    """Render the page with a real browser and return cleaned visible text."""
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page()
         page.goto(URL, wait_until="networkidle", timeout=30000)
-        # Give any client-side rendering a little extra time to settle
         page.wait_for_timeout(3000)
-        text = page.inner_text("body")
+
+        if SELECTOR:
+            try:
+                page.wait_for_selector(SELECTOR, timeout=5000)
+                text = page.inner_text(SELECTOR)
+                print(f"  → Extracted text from selector: {SELECTOR!r}")
+            except Exception:
+                print(f"  → Selector {SELECTOR!r} not found, falling back to <body>")
+                text = page.inner_text("body")
+        else:
+            text = page.inner_text("body")
+
         browser.close()
-        return text
+
+    # Drop noisy lines that change every load
+    clean = "\n".join(l for l in text.splitlines() if not _NOISE.match(l))
+    return clean
 
 
 def send_notification(title: str, message: str) -> None:
@@ -51,11 +76,7 @@ def send_notification(title: str, message: str) -> None:
     requests.post(
         f"https://ntfy.sh/{NTFY_TOPIC}",
         data=message.encode("utf-8"),
-        headers={
-            "Title": title,
-            "Priority": "high",
-            "Tags": "house",
-        },
+        headers={"Title": title, "Priority": "high", "Tags": "house"},
         timeout=15,
     )
 
@@ -74,12 +95,11 @@ def save_snapshot(text: str, new_hash: str) -> None:
 
 
 def check_once(old_hash: str) -> str:
-    """Run a single check. Returns the new hash (may equal old_hash)."""
     try:
         text = fetch_listing_text()
-    except Exception as exc:  # noqa: BLE001
+    except Exception as exc:
         print(f"  → Error loading page: {exc}", file=sys.stderr)
-        return old_hash  # treat as no change on transient errors
+        return old_hash
 
     new_hash = hashlib.sha256(text.encode("utf-8")).hexdigest()
 
@@ -100,7 +120,10 @@ def main() -> int:
     deadline = datetime.utcnow() + timedelta(minutes=LOOP_MINUTES)
     print(
         f"Starting monitor loop: checking every {CHECK_INTERVAL}s "
-        f"for {LOOP_MINUTES} minutes (until ~{deadline.strftime('%H:%M')} UTC)."
+        f"for {LOOP_MINUTES} minutes (until ~{deadline.strftime('%H:%M')} UTC).\n"
+        f"  URL:      {URL}\n"
+        f"  Selector: {SELECTOR or '(full page)'}\n"
+        f"  Snapshot: {HASH_FILE}"
     )
 
     current_hash = load_old_hash()
@@ -111,7 +134,6 @@ def main() -> int:
         print(f"[{datetime.utcnow().strftime('%H:%M:%S')}] Check #{run}", flush=True)
         current_hash = check_once(current_hash)
 
-        # Don't sleep past the deadline
         next_check = datetime.utcnow() + timedelta(seconds=CHECK_INTERVAL)
         if next_check < deadline:
             time.sleep(CHECK_INTERVAL)
