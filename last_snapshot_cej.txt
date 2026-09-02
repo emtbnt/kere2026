@@ -1,3 +1,115 @@
-429
+Filtre
+Nulstil filtre
+7 boliger
+Liste
+Kort
+Type
+BOLIGER
+EJENDOMME
+Område
+SJÆLLAND
+JYLLAND
+Sted
+frederiksberg
+københavn
+Husleje
+DKK
+DKK
+Boligtype
+Lejlighed
+Rækkehus
+Størrelse (min)
+m²
+Værelser
+Mindst 2 værelser
+Overtagelsesdato (senest)
+Øvrige faciliteter
+Elevator
+Mulighed for husdyr
+Møbleret
+Altan/terrasse
+Parkering
+Delevenlig
+Fælles gårdanlæg
+Cykelparkering
+Ungdomsbolig
+Studiebolig
+Seniorvenlig
+Fællesvaskeri
+Depotrum
+Lukket for henvendelser
+Rummelig 3-Værelses lejlighed på Rantzausgade Nørrebro
+Rantzausgade 30, 2., mf, 2200 København N
 
-Request limit exceeded
+2. sal
+
+3 vær.
+
+85 m²
+
+12.736 kr./md
+Reserveret
+Charmerende 2-værelses lejlighed på Frederiksberg
+Rolfsvej 17, 3., th, 2000 Frederiksberg
+
+3. sal
+
+2 vær.
+
+53 m²
+
+8.637 kr./md
+Lukket for henvendelser
+3-værelses lejlighed i København NV
+Tomsgårdsvej 85, 1., tv, 2400 København NV
+
+1. sal
+
+3 vær.
+
+73 m²
+
+10.290 kr./md
+Reserveret
+Lys og rummelig 2-værelses lejlighed I København NV
+Tomsgårdsvej 89, 4., tv, 2400 København NV
+
+4. sal
+
+2 vær.
+
+57 m²
+
+8.034 kr./md
+Lukket for henvendelser
+Charmerende 2-værelses på attraktive Rådmandsgade!
+Rådmandsgade 14, 3., th, 2200 København N
+
+3. sal
+
+2 vær.
+
+55 m²
+
+9.000 kr./md
+Lukket for henvendelser
+Klassisk 3 værelses bolig i attraktivt kvarter!
+Bentzonsvej 12, 4., tv, 2000 Frederiksberg
+
+4. sal
+
+3 vær.
+
+79 m²
+
+12.838 kr./md
+2-værelsesbolig centralt på Amager!
+Uplandsgade 6A, 3., 304, 2300 København S
+
+3. sal
+
+2 vær.
+
+47 m²
+
+11.600 kr./md
