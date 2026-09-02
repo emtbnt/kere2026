@@ -38,6 +38,7 @@ jobs:
           HASH_FILE: "last_hash_cej.txt"
           NOTIFY_TITLE: "CEJ listing change!"
           NOTIFY_BODY: "The CEJ rental listings changed — check it now: https://udlejning.cej.dk/find-bolig/overblik?collection=residences&minRooms=2&monthlyPrice=0-13600&p=k%C3%B8benhavn%2Cfrederiksberg"
+          SELECTOR: "main"
         run: python monitor.py
 
       - name: Commit updated snapshot
