@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-16 boliger fundet
+17 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,11 +34,11 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (16)
+Alle (17)
 Indre By (2)
 Vesterbro (1)
 Østerbro (5)
-Nørrebro (2)
+Nørrebro (3)
 Valby
 Amager (3)
 Frederiksberg (3)
@@ -67,44 +67,46 @@ Tagterrasse
 Delevenlig
 Altan
 Ryd filter
-Delevenlig
+Elevator
 
-Roskildevej 47, st., 2000 Frederiksberg
+Christian IX's Gade 5, 2. tv, 1111 København K
 
-6-værelses lejlighed på Frederiksberg
+4-værelses lejlighed i Indre by
 
-34.667 kr./md.
+32.938 kr./md.
 
-6 værelser
+4 værelser
 
-160 m
-2
-
-Altan
-
-Stormgade 35, 4. th, 1555 København V
-
-7-værelses lejlighed på Vesterbro OBS: (Udlejes ikke til bofællesskaber)
-
-32.209 kr./md.
-
-7 værelser
-
-203 m
+155 m
 2
 
 Penthouse
 Tagterrasse
 
-Sortedam Dossering 45, 5. tv, 2200 København N
+Strandboulevarden 61, 5. th, 2100 København Ø
 
-Fantastisk penthouselejlighed lige ved Søerne
+4-værelses lejlighed på Østerbro
 
-25.650 kr./md.
+26.250 kr./md.
 
-3 værelser
+4 værelser
 
-114 m
+126 m
+2
+
+Reserveret
+
+Nordre Fasanvej 271, 2. tv, 2200 København N
+
+RESERVERET
+
+Flot istandsat 2-værelses lejlighed tæt på offentlig transport
+
+9.177 kr./md.
+
+2 værelser
+
+57 m
 2
 
 Reserveret
@@ -156,65 +158,81 @@ RESERVERET
 2
 
 Udlejet
-Tagterrasse
+Delevenlig
 
-Nygårdsvej 16B, st. 3, 2100 København Ø
+Gammel Kongevej 138D, 1., 1850 Frederiksberg C
 
 UDLEJET
 
-1-værelses lejlighed på Østerbro
+5-værelses lejlighed på Frederiksberg
 
-9.854 kr./md.
+20.140 kr./md.
 
-1 værelse
+5 værelser
 
-43 m
+124 m
 2
 
 Udlejet
 
-Nygårdsvej 16, 2. tv, 2100 København Ø
+Ved Klosteret 6, 1. tv, 2100 København Ø
 
 UDLEJET
 
-3-værelses lejlighed på Østerbro
+4-værelses lejlighed på Østerbro
 
-13.699 kr./md.
+17.676 kr./md.
 
-3 værelser
+4 værelser
 
-85 m
+108 m
+2
+
+Udlejet
+Elevator
+
+Falkoner Alle 12B, 4. th, 2000 Frederiksberg
+
+UDLEJET
+
+5-værelses lejlighed på Frederiksberg
+
+17.856 kr./md.
+
+5 værelser
+
+108 m
 2
 
 Erhvervslokale?
 
 Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
 
-Elevator
+Altan
 
-Christian IX's Gade 5, 2. tv, 1111 København K
+Stormgade 35, 4. th, 1555 København V
 
-4-værelses lejlighed i Indre by
+7-værelses lejlighed på Vesterbro OBS: (Udlejes ikke til bofællesskaber)
 
-32.938 kr./md.
+32.209 kr./md.
 
-4 værelser
+7 værelser
 
-155 m
+203 m
 2
 
 Penthouse
 Tagterrasse
 
-Strandboulevarden 61, 5. th, 2100 København Ø
+Sortedam Dossering 45, 5. tv, 2200 København N
 
-4-værelses lejlighed på Østerbro
+Fantastisk penthouselejlighed lige ved Søerne
 
-26.250 kr./md.
+25.650 kr./md.
 
-4 værelser
+3 værelser
 
-126 m
+114 m
 2
 
 Reserveret
@@ -263,51 +281,51 @@ RESERVERET
 135 m
 2
 
-Udlejet
+Reserveret
 Delevenlig
 
-Gammel Kongevej 138D, 1., 1850 Frederiksberg C
+Roskildevej 47, st., 2000 Frederiksberg
+
+RESERVERET
+
+6-værelses lejlighed på Frederiksberg
+
+34.667 kr./md.
+
+6 værelser
+
+160 m
+2
+
+Udlejet
+Tagterrasse
+
+Nygårdsvej 16B, st. 3, 2100 København Ø
 
 UDLEJET
 
-5-værelses lejlighed på Frederiksberg
+1-værelses lejlighed på Østerbro
 
-20.140 kr./md.
+9.854 kr./md.
 
-5 værelser
+1 værelse
 
-124 m
+43 m
 2
 
 Udlejet
 
-Ved Klosteret 6, 1. tv, 2100 København Ø
+Nygårdsvej 16, 2. tv, 2100 København Ø
 
 UDLEJET
 
-4-værelses lejlighed på Østerbro
+3-værelses lejlighed på Østerbro
 
-17.676 kr./md.
+13.699 kr./md.
 
-4 værelser
+3 værelser
 
-108 m
-2
-
-Udlejet
-Elevator
-
-Falkoner Alle 12B, 4. th, 2000 Frederiksberg
-
-UDLEJET
-
-5-værelses lejlighed på Frederiksberg
-
-17.856 kr./md.
-
-5 værelser
-
-108 m
+85 m
 2
 
 Kereby ApS
