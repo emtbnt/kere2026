@@ -20,14 +20,15 @@ from datetime import datetime, timedelta
 import requests
 from playwright.sync_api import sync_playwright
 
-URL = "https://kerebyudlejning.dk/"
-SNAPSHOT_FILE = "last_snapshot.txt"
-HASH_FILE = "last_hash.txt"
-
-# Configurable via environment variables (set in the workflow)
-NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "")
-CHECK_INTERVAL = int(os.environ.get("CHECK_INTERVAL_SECONDS", "30"))
-LOOP_MINUTES = int(os.environ.get("LOOP_DURATION_MINUTES", "58"))
+# All settings configurable via environment variables (set in each workflow)
+URL           = os.environ.get("MONITOR_URL",   "https://kerebyudlejning.dk/")
+SNAPSHOT_FILE = os.environ.get("SNAPSHOT_FILE", "last_snapshot.txt")
+HASH_FILE     = os.environ.get("HASH_FILE",     "last_hash.txt")
+NTFY_TOPIC    = os.environ.get("NTFY_TOPIC",    "")
+NOTIFY_TITLE  = os.environ.get("NOTIFY_TITLE",  "Listing change!")
+NOTIFY_BODY   = os.environ.get("NOTIFY_BODY",   f"The rental page changed — check it now: {URL}")
+CHECK_INTERVAL = int(os.environ.get("CHECK_INTERVAL_SECONDS",  "30"))
+LOOP_MINUTES   = int(os.environ.get("LOOP_DURATION_MINUTES",   "58"))
 
 
 def fetch_listing_text() -> str:
@@ -87,10 +88,7 @@ def check_once(old_hash: str) -> str:
         save_snapshot(text, new_hash)
     elif new_hash != old_hash:
         print("  → *** CHANGE DETECTED ***")
-        send_notification(
-            "Kereby listing change!",
-            "The Kereby rental page changed — check it now: " + URL,
-        )
+        send_notification(NOTIFY_TITLE, NOTIFY_BODY)
         save_snapshot(text, new_hash)
     else:
         print("  → No change.")
