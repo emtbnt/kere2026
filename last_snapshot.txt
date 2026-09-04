@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-18 boliger fundet
+20 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,12 +34,12 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (18)
+Alle (20)
 Indre By (2)
-Vesterbro (2)
+Vesterbro (3)
 Østerbro (5)
 Nørrebro (3)
-Valby
+Valby (1)
 Amager (3)
 Frederiksberg (3)
 Hellerup
@@ -92,6 +92,22 @@ Strandboulevarden 61, 5. th, 2100 København Ø
 4 værelser
 
 126 m
+2
+
+Reserveret
+Altan
+
+Valby Langgade 122, 3. th, 2500 Valby
+
+RESERVERET
+
+3-værelses lejlighed i Valby
+
+11.638 kr./md.
+
+3 værelser
+
+75 m
 2
 
 Reserveret
@@ -233,6 +249,22 @@ Fantastisk penthouselejlighed lige ved Søerne
 3 værelser
 
 114 m
+2
+
+Reserveret
+Elevator
+
+Helgolandsgade 2, 3. th, 1653 København V
+
+RESERVERET
+
+Central beliggende delevenlig 4-værelses
+
+16.762 kr./md.
+
+4 værelser
+
+97 m
 2
 
 Reserveret
