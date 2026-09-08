@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-12 boliger fundet
+9 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,11 +34,11 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (12)
+Alle (9)
 Indre By (2)
 Vesterbro (2)
-Østerbro (2)
-Nørrebro (3)
+Østerbro (1)
+Nørrebro (1)
 Valby (1)
 Amager (2)
 Frederiksberg
@@ -124,35 +124,20 @@ RESERVERET
 89 m
 2
 
-Reserveret
-
-Store Kongensgade 11, 3. th, 1264 København K
-
-RESERVERET
-
-3-værelses lejlighed i indre by
-
-14.528 kr./md.
-
-3 værelser
-
-90 m
-2
-
-Reserveret
+Udlejet
 Delevenlig
 
-Herninggade 26, st., 2100 København Ø
+Amagerbrogade 120, 5., 2300 København S
 
-RESERVERET
+UDLEJET
 
-4 vær. på Østerbro(Lav stuelejlighed)
+5-værelses lejlighed på Amager
 
-21.600 kr./md.
+21.195 kr./md.
 
-4 værelser
+5 værelser
 
-96 m
+135 m
 2
 
 Erhvervslokale?
@@ -204,50 +189,17 @@ RESERVERET
 
 Reserveret
 
-Nordre Fasanvej 271, 2. tv, 2200 København N
+Store Kongensgade 11, 3. th, 1264 København K
 
 RESERVERET
 
-Flot istandsat 2-værelses lejlighed tæt på offentlig transport
+3-værelses lejlighed i indre by
 
-9.177 kr./md.
-
-2 værelser
-
-57 m
-2
-
-Reserveret
-Elevator
-Altan
-
-Griffenfeldsgade 6, 4. th, 2200 København N
-
-RESERVERET
-
-Delevenlig lejlighed centralt på Nørrebro
-
-18.113 kr./md.
+14.528 kr./md.
 
 3 værelser
 
-100 m
-2
-
-Udlejet
-Delevenlig
-
-Amagerbrogade 120, 5., 2300 København S
-
-UDLEJET
-
-5-værelses lejlighed på Amager
-
-21.195 kr./md.
-
-5 værelser
-
-135 m
+90 m
 2
 
 Kereby ApS
