@@ -67,100 +67,6 @@ Tagterrasse
 Delevenlig
 Altan
 Ryd filter
-Elevator
-
-Christian IX's Gade 5, 2. tv, 1111 København K
-
-4-værelses lejlighed i Indre by
-
-32.938 kr./md.
-
-4 værelser
-
-155 m
-2
-
-Penthouse
-Tagterrasse
-
-Strandboulevarden 61, 5. th, 2100 København Ø
-
-4-værelses lejlighed på Østerbro
-
-26.250 kr./md.
-
-4 værelser
-
-126 m
-2
-
-Reserveret
-Delevenlig
-
-Vesterbrogade 13, 3. tv, 1620 København V
-
-RESERVERET
-
-4-værelses lejlighed på Vesterbro
-
-21.800 kr./md.
-
-4 værelser
-
-109 m
-2
-
-Reserveret
-Delevenlig
-
-Herninggade 26, st., 2100 København Ø
-
-RESERVERET
-
-4 vær. på Østerbro(Lav stuelejlighed)
-
-21.600 kr./md.
-
-4 værelser
-
-96 m
-2
-
-Reserveret
-Altan
-
-Valby Langgade 122, 3. th, 2500 Valby
-
-RESERVERET
-
-3-værelses lejlighed i Valby
-
-11.638 kr./md.
-
-3 værelser
-
-75 m
-2
-
-Udlejet
-
-Store Kongensgade 11, 3. th, 1264 København K
-
-UDLEJET
-
-3-værelses lejlighed i indre by
-
-14.528 kr./md.
-
-3 værelser
-
-90 m
-2
-
-Erhvervslokale?
-
-Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
-
 Altan
 
 Stormgade 35, 4. th, 1555 København V
@@ -219,6 +125,87 @@ RESERVERET
 2
 
 Reserveret
+Elevator
+
+Christian IX's Gade 5, 2. tv, 1111 København K
+
+RESERVERET
+
+4-værelses lejlighed i Indre by
+
+32.938 kr./md.
+
+4 værelser
+
+155 m
+2
+
+Udlejet
+
+Store Kongensgade 11, 3. th, 1264 København K
+
+UDLEJET
+
+3-værelses lejlighed i indre by
+
+14.528 kr./md.
+
+3 værelser
+
+90 m
+2
+
+Erhvervslokale?
+
+Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+
+Penthouse
+Tagterrasse
+
+Strandboulevarden 61, 5. th, 2100 København Ø
+
+4-værelses lejlighed på Østerbro
+
+26.250 kr./md.
+
+4 værelser
+
+126 m
+2
+
+Reserveret
+Delevenlig
+
+Vesterbrogade 13, 3. tv, 1620 København V
+
+RESERVERET
+
+4-værelses lejlighed på Vesterbro
+
+21.800 kr./md.
+
+4 værelser
+
+109 m
+2
+
+Reserveret
+Delevenlig
+
+Herninggade 26, st., 2100 København Ø
+
+RESERVERET
+
+4 vær. på Østerbro(Lav stuelejlighed)
+
+21.600 kr./md.
+
+4 værelser
+
+96 m
+2
+
+Reserveret
 
 Dannebrogsgade 15, st. th, 1660 København V
 
@@ -231,6 +218,22 @@ RESERVERET
 3 værelser
 
 89 m
+2
+
+Udlejet
+Altan
+
+Valby Langgade 122, 3. th, 2500 Valby
+
+UDLEJET
+
+3-værelses lejlighed i Valby
+
+11.638 kr./md.
+
+3 værelser
+
+75 m
 2
 
 Udlejet
