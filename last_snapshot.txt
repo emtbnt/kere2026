@@ -35,12 +35,12 @@ Liste
 Kort
 Område KBH
 Alle (13)
-Indre By (3)
+Indre By (2)
 Vesterbro (3)
 Østerbro (2)
 Nørrebro (1)
 Valby (1)
-Amager (3)
+Amager (4)
 Frederiksberg
 Hellerup
 
@@ -82,34 +82,34 @@ Strandboulevarden 61, 5. th, 2100 København Ø
 2
 
 Reserveret
+Delevenlig
 
-Jagtvej 183, 2. th, 2100 København Ø
+Amagerbrogade 111, 1. tv, 2300 København S
 
 RESERVERET
 
-4-værelses lejlighed på Østerbro
+Delevenlig 3 vær. lejlighed
 
-18.276 kr./md.
+13.536 kr./md.
 
-4 værelser
+3 værelser
 
-109 m
+83 m
 2
 
 Reserveret
-Delevenlig
 
-Vesterbrogade 13, 3. tv, 1620 København V
+Drogdensgade 4, 2. th, 2300 København S
 
 RESERVERET
 
-4-værelses lejlighed på Vesterbro
+3-værelses på Amager
 
-21.800 kr./md.
+9.516 kr./md.
 
-4 værelser
+3 værelser
 
-109 m
+61 m
 2
 
 Reserveret
@@ -194,32 +194,33 @@ Fantastisk penthouselejlighed lige ved Søerne
 
 Reserveret
 
-Drogdensgade 4, 2. th, 2300 København S
+Jagtvej 183, 2. th, 2100 København Ø
 
 RESERVERET
 
-3-værelses på Amager
+4-værelses lejlighed på Østerbro
 
-9.516 kr./md.
-
-3 værelser
-
-61 m
-2
-
-Reserveret
-
-Frederiksborggade 35, 1. tv, 1360 København K
-
-RESERVERET
-
-Centralt beliggende 4. vær.
-
-14.419 kr./md.
+18.276 kr./md.
 
 4 værelser
 
-86 m
+109 m
+2
+
+Reserveret
+Delevenlig
+
+Vesterbrogade 13, 3. tv, 1620 København V
+
+RESERVERET
+
+4-værelses lejlighed på Vesterbro
+
+21.800 kr./md.
+
+4 værelser
+
+109 m
 2
 
 Reserveret
