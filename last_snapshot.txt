@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-13 boliger fundet
+14 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,8 +34,8 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (13)
-Indre By (2)
+Alle (14)
+Indre By (3)
 Vesterbro (3)
 Østerbro (2)
 Nørrebro (1)
@@ -79,6 +79,118 @@ Strandboulevarden 61, 5. th, 2100 København Ø
 4 værelser
 
 126 m
+2
+
+Reserveret
+Delevenlig
+
+Kronprinsensgade 10, 4., 1114 København K
+
+RESERVERET
+
+4-værelses penthouse i to plan
+
+23.047 kr./md.
+
+4 værelser
+
+135 m
+2
+
+Reserveret
+
+Jagtvej 183, 2. th, 2100 København Ø
+
+RESERVERET
+
+4-værelses lejlighed på Østerbro
+
+18.276 kr./md.
+
+4 værelser
+
+109 m
+2
+
+Reserveret
+Delevenlig
+
+Vesterbrogade 13, 3. tv, 1620 København V
+
+RESERVERET
+
+4-værelses lejlighed på Vesterbro
+
+21.800 kr./md.
+
+4 værelser
+
+109 m
+2
+
+Reserveret
+Altan
+
+Stormgade 35, 4. th, 1555 København V
+
+RESERVERET
+
+7-værelses lejlighed på Vesterbro OBS: (Udlejes ikke til bofællesskaber)
+
+32.209 kr./md.
+
+7 værelser
+
+203 m
+2
+
+Udlejet
+
+Dannebrogsgade 15, st. th, 1660 København V
+
+UDLEJET
+
+3 værelses lejlighed på Vesterbro
+
+14.455 kr./md.
+
+3 værelser
+
+89 m
+2
+
+Udlejet
+Delevenlig
+
+Amagerbrogade 120, 5., 2300 København S
+
+UDLEJET
+
+5-værelses lejlighed på Amager
+
+21.195 kr./md.
+
+5 værelser
+
+135 m
+2
+
+Erhvervslokale?
+
+Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+
+Penthouse
+Tagterrasse
+
+Sortedam Dossering 45, 5. tv, 2200 København N
+
+Fantastisk penthouselejlighed lige ved Søerne
+
+24.767 kr./md.
+
+3 værelser
+
+114 m
 2
 
 Reserveret
@@ -172,102 +284,6 @@ UDLEJET
 4 værelser
 
 155 m
-2
-
-Erhvervslokale?
-
-Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
-
-Penthouse
-Tagterrasse
-
-Sortedam Dossering 45, 5. tv, 2200 København N
-
-Fantastisk penthouselejlighed lige ved Søerne
-
-24.767 kr./md.
-
-3 værelser
-
-114 m
-2
-
-Reserveret
-
-Jagtvej 183, 2. th, 2100 København Ø
-
-RESERVERET
-
-4-værelses lejlighed på Østerbro
-
-18.276 kr./md.
-
-4 værelser
-
-109 m
-2
-
-Reserveret
-Delevenlig
-
-Vesterbrogade 13, 3. tv, 1620 København V
-
-RESERVERET
-
-4-værelses lejlighed på Vesterbro
-
-21.800 kr./md.
-
-4 værelser
-
-109 m
-2
-
-Reserveret
-Altan
-
-Stormgade 35, 4. th, 1555 København V
-
-RESERVERET
-
-7-værelses lejlighed på Vesterbro OBS: (Udlejes ikke til bofællesskaber)
-
-32.209 kr./md.
-
-7 værelser
-
-203 m
-2
-
-Udlejet
-
-Dannebrogsgade 15, st. th, 1660 København V
-
-UDLEJET
-
-3 værelses lejlighed på Vesterbro
-
-14.455 kr./md.
-
-3 værelser
-
-89 m
-2
-
-Udlejet
-Delevenlig
-
-Amagerbrogade 120, 5., 2300 København S
-
-UDLEJET
-
-5-værelses lejlighed på Amager
-
-21.195 kr./md.
-
-5 værelser
-
-135 m
 2
 
 Kereby ApS
