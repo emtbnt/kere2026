@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-14 boliger fundet
+16 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,11 +34,11 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (14)
+Alle (16)
 Indre By (3)
 Vesterbro (3)
 Østerbro (2)
-Nørrebro (1)
+Nørrebro (3)
 Valby (1)
 Amager (4)
 Frederiksberg
@@ -79,6 +79,20 @@ Strandboulevarden 61, 5. th, 2100 København Ø
 4 værelser
 
 126 m
+2
+
+Penthouse
+Tagterrasse
+
+Sortedam Dossering 45, 5. tv, 2200 København N
+
+Fantastisk penthouselejlighed lige ved Søerne
+
+24.767 kr./md.
+
+3 værelser
+
+114 m
 2
 
 Reserveret
@@ -128,20 +142,19 @@ RESERVERET
 109 m
 2
 
-Reserveret
-Altan
+Udlejet
 
-Stormgade 35, 4. th, 1555 København V
+Sundbyvester Plads 1, 3. tv, 2300 København S
 
-RESERVERET
+UDLEJET
 
-7-værelses lejlighed på Vesterbro OBS: (Udlejes ikke til bofællesskaber)
+3-værelses lejlighed på Amager
 
-32.209 kr./md.
+11.138 kr./md.
 
-7 værelser
+3 værelser
 
-203 m
+69 m
 2
 
 Udlejet
@@ -179,18 +192,32 @@ Erhvervslokale?
 
 Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
 
-Penthouse
-Tagterrasse
+Delevenlig
 
-Sortedam Dossering 45, 5. tv, 2200 København N
+Nørrebrogade 156, st. tv, 2200 København N
 
-Fantastisk penthouselejlighed lige ved Søerne
+3-værelses med stor hems
 
-24.767 kr./md.
+24.975 kr./md.
 
 3 værelser
 
-114 m
+111 m
+2
+
+Reserveret
+
+Fælledvej 23, 3. tv, 2200 København N
+
+RESERVERET
+
+4-værelses lejlighed på Nørrebro
+
+18.380 kr./md.
+
+4 værelser
+
+111 m
 2
 
 Reserveret
@@ -225,18 +252,19 @@ RESERVERET
 2
 
 Reserveret
+Altan
 
-Sundbyvester Plads 1, 3. tv, 2300 København S
+Stormgade 35, 4. th, 1555 København V
 
 RESERVERET
 
-3-værelses lejlighed på Amager
+7-værelses lejlighed på Vesterbro OBS: (Udlejes ikke til bofællesskaber)
 
-11.138 kr./md.
+32.209 kr./md.
 
-3 værelser
+7 værelser
 
-69 m
+203 m
 2
 
 Udlejet
