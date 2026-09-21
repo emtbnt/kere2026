@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-17 boliger fundet
+19 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,14 +34,14 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (17)
+Alle (19)
 Indre By (3)
 Vesterbro (3)
 Østerbro (2)
-Nørrebro (3)
+Nørrebro (4)
 Valby (1)
 Amager (5)
-Frederiksberg
+Frederiksberg (1)
 Hellerup
 
 Værelser INKL. STUE
@@ -67,32 +67,45 @@ Tagterrasse
 Delevenlig
 Altan
 Ryd filter
-Penthouse
-Tagterrasse
 
-Strandboulevarden 61, 5. th, 2100 København Ø
+Jagtvej 113, 2., 2200 København N
 
-4-værelses lejlighed på Østerbro
+7-værelses lejlighed på Nørrebro
 
-26.250 kr./md.
+41.279 kr./md.
 
-4 værelser
+7 værelser
 
-126 m
+246 m
 2
 
-Penthouse
-Tagterrasse
+Delevenlig
 
-Sortedam Dossering 45, 5. tv, 2200 København N
+Nørrebrogade 156, st. tv, 2200 København N
 
-Fantastisk penthouselejlighed lige ved Søerne
+3-værelses med stor hems
 
-24.767 kr./md.
+24.975 kr./md.
 
 3 værelser
 
-114 m
+111 m
+2
+
+Reserveret
+Delevenlig
+
+Godthåbsvej 8A, 2., 2000 Frederiksberg
+
+RESERVERET
+
+5-værelses lejlighed på Frederiksberg
+
+22.701 kr./md.
+
+5 værelser
+
+141 m
 2
 
 Reserveret
@@ -208,17 +221,32 @@ Erhvervslokale?
 
 Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
 
-Delevenlig
+Penthouse
+Tagterrasse
 
-Nørrebrogade 156, st. tv, 2200 København N
+Strandboulevarden 61, 5. th, 2100 København Ø
 
-3-værelses med stor hems
+4-værelses lejlighed på Østerbro
 
-24.975 kr./md.
+26.250 kr./md.
+
+4 værelser
+
+126 m
+2
+
+Penthouse
+Tagterrasse
+
+Sortedam Dossering 45, 5. tv, 2200 København N
+
+Fantastisk penthouselejlighed lige ved Søerne
+
+24.767 kr./md.
 
 3 værelser
 
-111 m
+114 m
 2
 
 Reserveret
