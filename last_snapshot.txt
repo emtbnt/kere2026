@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-19 boliger fundet
+17 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,13 +34,13 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (19)
+Alle (17)
 Indre By (3)
 Vesterbro (3)
-Østerbro (2)
+Østerbro (1)
 Nørrebro (4)
 Valby (1)
-Amager (5)
+Amager (4)
 Frederiksberg (1)
 Hellerup
 
@@ -137,21 +137,6 @@ Delevenlig 3 vær. lejlighed
 3 værelser
 
 83 m
-2
-
-Reserveret
-
-Drogdensgade 4, 2. th, 2300 København S
-
-RESERVERET
-
-3-værelses på Amager
-
-9.516 kr./md.
-
-3 værelser
-
-61 m
 2
 
 Udlejet
@@ -277,21 +262,6 @@ RESERVERET
 4 værelser
 
 135 m
-2
-
-Reserveret
-
-Jagtvej 183, 2. th, 2100 København Ø
-
-RESERVERET
-
-4-værelses lejlighed på Østerbro
-
-18.276 kr./md.
-
-4 værelser
-
-109 m
 2
 
 Reserveret
