@@ -11,7 +11,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-19 boliger fundet
+20 boliger fundet
 
 Sorter:
 Pris ↑
@@ -21,11 +21,11 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (19)
+Alle (20)
 Indre By (3)
 Vesterbro (3)
 Østerbro (1)
-Nørrebro (5)
+Nørrebro (6)
 Valby (2)
 Amager (4)
 Frederiksberg (1)
@@ -66,17 +66,18 @@ Jagtvej 113, 2., 2200 København N
 246 m
 2
 
-Delevenlig
+Penthouse
+Tagterrasse
 
-Nørrebrogade 156, st. tv, 2200 København N
+Sortedam Dossering 45, 5. tv, 2200 København N
 
-3-værelses med stor hems
+Fantastisk penthouselejlighed lige ved Søerne
 
-24.975 kr./md.
+24.767 kr./md.
 
 3 værelser
 
-111 m
+114 m
 2
 
 Reserveret
@@ -124,6 +125,164 @@ RESERVERET
 4 værelser
 
 135 m
+2
+
+Reserveret
+Penthouse
+Tagterrasse
+
+Strandboulevarden 61, 5. th, 2100 København Ø
+
+RESERVERET
+
+4-værelses lejlighed på Østerbro
+
+24.990 kr./md.
+
+4 værelser
+
+126 m
+2
+
+Udlejet
+Delevenlig
+
+Vesterbrogade 13, 3. tv, 1620 København V
+
+UDLEJET
+
+4-værelses lejlighed på Vesterbro
+
+21.800 kr./md.
+
+4 værelser
+
+109 m
+2
+
+Udlejet
+Altan
+
+Valby Langgade 122, 3. th, 2500 Valby
+
+UDLEJET
+
+3-værelses lejlighed i Valby
+
+11.638 kr./md.
+
+3 værelser
+
+75 m
+2
+
+Udlejet
+
+Store Kongensgade 11, 3. th, 1264 København K
+
+UDLEJET
+
+3-værelses lejlighed i indre by
+
+14.528 kr./md.
+
+3 værelser
+
+90 m
+2
+
+Udlejet
+Elevator
+
+Christian IX's Gade 5, 2. tv, 1111 København K
+
+UDLEJET
+
+4-værelses lejlighed i Indre by
+
+32.938 kr./md.
+
+4 værelser
+
+155 m
+2
+
+Erhvervslokale?
+
+Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+
+Delevenlig
+
+Nørrebrogade 156, st. tv, 2200 København N
+
+3-værelses med stor hems
+
+24.975 kr./md.
+
+3 værelser
+
+111 m
+2
+
+Reserveret
+
+Brohusgade 20, 3. tv, 2200 København N
+
+RESERVERET
+
+2-værelses lejlighed på Nørrebro
+
+9.376 kr./md.
+
+2 værelser
+
+59 m
+2
+
+Reserveret
+
+Mølle Allé 21, 4. tv, 2500 Valby
+
+RESERVERET
+
+3-værelses lejlighed i Valby
+
+13.432 kr./md.
+
+3 værelser
+
+83 m
+2
+
+Reserveret
+
+Fælledvej 23, 3. tv, 2200 København N
+
+RESERVERET
+
+4-værelses lejlighed på Nørrebro
+
+18.380 kr./md.
+
+4 værelser
+
+111 m
+2
+
+Reserveret
+Delevenlig
+
+Amagerbrogade 111, 1. tv, 2300 København S
+
+RESERVERET
+
+Delevenlig 3 vær. lejlighed
+
+13.536 kr./md.
+
+3 værelser
+
+83 m
 2
 
 Udlejet
@@ -201,147 +360,6 @@ UDLEJET
 7 værelser
 
 203 m
-2
-
-Erhvervslokale?
-
-Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
-
-Penthouse
-Tagterrasse
-
-Strandboulevarden 61, 5. th, 2100 København Ø
-
-4-værelses lejlighed på Østerbro
-
-24.990 kr./md.
-
-4 værelser
-
-126 m
-2
-
-Penthouse
-Tagterrasse
-
-Sortedam Dossering 45, 5. tv, 2200 København N
-
-Fantastisk penthouselejlighed lige ved Søerne
-
-24.767 kr./md.
-
-3 værelser
-
-114 m
-2
-
-Reserveret
-
-Mølle Allé 21, 4. tv, 2500 Valby
-
-RESERVERET
-
-3-værelses lejlighed i Valby
-
-13.432 kr./md.
-
-3 værelser
-
-83 m
-2
-
-Reserveret
-
-Fælledvej 23, 3. tv, 2200 København N
-
-RESERVERET
-
-4-værelses lejlighed på Nørrebro
-
-18.380 kr./md.
-
-4 værelser
-
-111 m
-2
-
-Reserveret
-Delevenlig
-
-Amagerbrogade 111, 1. tv, 2300 København S
-
-RESERVERET
-
-Delevenlig 3 vær. lejlighed
-
-13.536 kr./md.
-
-3 værelser
-
-83 m
-2
-
-Udlejet
-Delevenlig
-
-Vesterbrogade 13, 3. tv, 1620 København V
-
-UDLEJET
-
-4-værelses lejlighed på Vesterbro
-
-21.800 kr./md.
-
-4 værelser
-
-109 m
-2
-
-Udlejet
-Altan
-
-Valby Langgade 122, 3. th, 2500 Valby
-
-UDLEJET
-
-3-værelses lejlighed i Valby
-
-11.638 kr./md.
-
-3 værelser
-
-75 m
-2
-
-Udlejet
-
-Store Kongensgade 11, 3. th, 1264 København K
-
-UDLEJET
-
-3-værelses lejlighed i indre by
-
-14.528 kr./md.
-
-3 værelser
-
-90 m
-2
-
-Udlejet
-Elevator
-
-Christian IX's Gade 5, 2. tv, 1111 København K
-
-UDLEJET
-
-4-værelses lejlighed i Indre by
-
-32.938 kr./md.
-
-4 værelser
-
-155 m
 2
 
 Kereby ApS
