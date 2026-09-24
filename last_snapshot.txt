@@ -111,30 +111,30 @@ RESERVERET
 2
 
 Reserveret
+Delevenlig
 
-Fælledvej 23, 3. tv, 2200 København N
+Kronprinsensgade 10, 4., 1114 København K
 
 RESERVERET
 
-4-værelses lejlighed på Nørrebro
+4-værelses penthouse i to plan
 
-18.380 kr./md.
+23.047 kr./md.
 
 4 værelser
 
-111 m
+135 m
 2
 
-Reserveret
-Delevenlig
+Udlejet
 
-Amagerbrogade 111, 1. tv, 2300 København S
+Amagerbrogade 109, 1. tv, 2300 København S
 
-RESERVERET
+UDLEJET
 
-Delevenlig 3 vær. lejlighed
+3 værelses lejlighed på Amager
 
-13.536 kr./md.
+17.983 kr./md.
 
 3 værelser
 
@@ -252,33 +252,33 @@ RESERVERET
 
 Reserveret
 
-Amagerbrogade 109, 1. tv, 2300 København S
+Fælledvej 23, 3. tv, 2200 København N
 
 RESERVERET
 
-3 værelses lejlighed på Amager
+4-værelses lejlighed på Nørrebro
 
-17.983 kr./md.
+18.380 kr./md.
 
-3 værelser
+4 værelser
 
-83 m
+111 m
 2
 
 Reserveret
 Delevenlig
 
-Kronprinsensgade 10, 4., 1114 København K
+Amagerbrogade 111, 1. tv, 2300 København S
 
 RESERVERET
 
-4-værelses penthouse i to plan
+Delevenlig 3 vær. lejlighed
 
-23.047 kr./md.
+13.536 kr./md.
 
-4 værelser
+3 værelser
 
-135 m
+83 m
 2
 
 Udlejet
