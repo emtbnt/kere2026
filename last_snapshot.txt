@@ -1,3 +1,16 @@
+Samtykke
+Detaljer
+Om
+Denne hjemmeside bruger cookies
+Vi bruger cookies til at tilpasse vores indhold og annoncer, til at vise dig funktioner til sociale medier og til at analysere vores trafik. Vi deler også oplysninger om din brug af vores hjemmeside med vores partnere inden for sociale medier, annonceringspartnere og analysepartnere. Vores partnere kan kombinere disse data med andre oplysninger, du har givet dem, eller som de har indsamlet fra din brug af deres tjenester.
+Samtykkevalg
+Nødvendig
+Præferencer
+Statistik
+Marketing
+Afvis
+Tillad valgte
+Tillad alle
 Bolig
 Erhverv
 Parkering
@@ -11,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-23 boliger fundet
+25 boliger fundet
 
 Sorter:
 Pris ↑
@@ -21,15 +34,15 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (23)
+Alle (25)
 Indre By (3)
-Vesterbro (3)
+Vesterbro (4)
 Østerbro (2)
 Nørrebro (8)
 Valby (2)
 Amager (4)
 Frederiksberg (1)
-Hellerup
+Hellerup (1)
 
 Værelser INKL. STUE
 
@@ -66,6 +79,19 @@ Strandboulevarden 61, 5. th, 2100 København Ø
 4 værelser
 
 126 m
+2
+
+Altan
+
+Helgolandsgade 2, 5. th, 1653 København V
+
+3-vær. med altan på Vesterbro
+
+16.683 kr./md.
+
+3 værelser
+
+91 m
 2
 
 Reserveret
@@ -254,6 +280,19 @@ Fantastisk penthouselejlighed lige ved Søerne
 3 værelser
 
 114 m
+2
+
+Altan
+
+Gersonsvej 55, st. th, 2900 Hellerup
+
+3. vær. med have.
+
+15.656 kr./md.
+
+3 værelser
+
+96 m
 2
 
 Reserveret
