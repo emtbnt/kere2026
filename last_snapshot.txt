@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-25 boliger fundet
+26 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,8 +34,8 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (25)
-Indre By (3)
+Alle (26)
+Indre By (4)
 Vesterbro (4)
 Østerbro (2)
 Nørrebro (8)
@@ -91,194 +91,6 @@ Fantastisk penthouselejlighed lige ved Søerne
 3 værelser
 
 114 m
-2
-
-Reserveret
-Altan
-
-Gersonsvej 55, st. th, 2900 Hellerup
-
-RESERVERET
-
-Ikke delebolig - 3. vær. med have.
-
-15.656 kr./md.
-
-3 værelser
-
-96 m
-2
-
-Reserveret
-
-Fredensgade 3B, 3. th, 2200 København N
-
-RESERVERET
-
-4-værelses lejlighed på Nørrebro
-
-17.047 kr./md.
-
-4 værelser
-
-104 m
-2
-
-Udlejet
-
-Brohusgade 20, 3. tv, 2200 København N
-
-UDLEJET
-
-2-værelses lejlighed på Nørrebro
-
-9.376 kr./md.
-
-2 værelser
-
-59 m
-2
-
-Udlejet
-
-Mølle Allé 21, 4. tv, 2500 Valby
-
-UDLEJET
-
-3-værelses lejlighed i Valby
-
-13.432 kr./md.
-
-3 værelser
-
-83 m
-2
-
-Udlejet
-Delevenlig
-
-Godthåbsvej 8A, 2., 2000 Frederiksberg
-
-UDLEJET
-
-5-værelses lejlighed på Frederiksberg
-
-22.701 kr./md.
-
-5 værelser
-
-141 m
-2
-
-Udlejet
-
-Fælledvej 23, 3. tv, 2200 København N
-
-UDLEJET
-
-4-værelses lejlighed på Nørrebro
-
-18.380 kr./md.
-
-4 værelser
-
-111 m
-2
-
-Udlejet
-Delevenlig
-
-Amagerbrogade 111, 1. tv, 2300 København S
-
-UDLEJET
-
-Delevenlig 3 vær. lejlighed
-
-13.536 kr./md.
-
-3 værelser
-
-83 m
-2
-
-Udlejet
-
-Sundbyvester Plads 1, 3. tv, 2300 København S
-
-UDLEJET
-
-3-værelses lejlighed på Amager
-
-11.138 kr./md.
-
-3 værelser
-
-69 m
-2
-
-Udlejet
-
-Dannebrogsgade 15, st. th, 1660 København V
-
-UDLEJET
-
-3 værelses lejlighed på Vesterbro
-
-14.455 kr./md.
-
-3 værelser
-
-89 m
-2
-
-Udlejet
-Delevenlig
-
-Amagerbrogade 120, 5., 2300 København S
-
-UDLEJET
-
-5-værelses lejlighed på Amager
-
-21.195 kr./md.
-
-5 værelser
-
-135 m
-2
-
-Udlejet
-Altan
-
-Stormgade 35, 4. th, 1555 København V
-
-UDLEJET
-
-7-værelses lejlighed på Vesterbro OBS: (Udlejes ikke til bofællesskaber)
-
-32.209 kr./md.
-
-7 værelser
-
-203 m
-2
-
-Erhvervslokale?
-
-Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
-
-Penthouse
-Tagterrasse
-
-Strandboulevarden 61, 5. th, 2100 København Ø
-
-4-værelses lejlighed på Østerbro
-
-24.990 kr./md.
-
-4 værelser
-
-126 m
 2
 
 Reserveret
@@ -450,6 +262,209 @@ UDLEJET
 4 værelser
 
 155 m
+2
+
+Erhvervslokale?
+
+Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+
+Penthouse
+Tagterrasse
+
+Strandboulevarden 61, 5. th, 2100 København Ø
+
+4-værelses lejlighed på Østerbro
+
+24.990 kr./md.
+
+4 værelser
+
+126 m
+2
+
+Reserveret
+
+Gothersgade 10C, 2. th, 1123 København K
+
+RESERVERET
+
+4-værelses lejlighed i Indre by
+
+18.472 kr./md.
+
+4 værelser
+
+111 m
+2
+
+Reserveret
+Altan
+
+Gersonsvej 55, st. th, 2900 Hellerup
+
+RESERVERET
+
+Ikke delebolig - 3. vær. med have.
+
+15.656 kr./md.
+
+3 værelser
+
+96 m
+2
+
+Reserveret
+
+Fredensgade 3B, 3. th, 2200 København N
+
+RESERVERET
+
+4-værelses lejlighed på Nørrebro
+
+17.047 kr./md.
+
+4 værelser
+
+104 m
+2
+
+Udlejet
+
+Brohusgade 20, 3. tv, 2200 København N
+
+UDLEJET
+
+2-værelses lejlighed på Nørrebro
+
+9.376 kr./md.
+
+2 værelser
+
+59 m
+2
+
+Udlejet
+
+Mølle Allé 21, 4. tv, 2500 Valby
+
+UDLEJET
+
+3-værelses lejlighed i Valby
+
+13.432 kr./md.
+
+3 værelser
+
+83 m
+2
+
+Udlejet
+Delevenlig
+
+Godthåbsvej 8A, 2., 2000 Frederiksberg
+
+UDLEJET
+
+5-værelses lejlighed på Frederiksberg
+
+22.701 kr./md.
+
+5 værelser
+
+141 m
+2
+
+Udlejet
+
+Fælledvej 23, 3. tv, 2200 København N
+
+UDLEJET
+
+4-værelses lejlighed på Nørrebro
+
+18.380 kr./md.
+
+4 værelser
+
+111 m
+2
+
+Udlejet
+Delevenlig
+
+Amagerbrogade 111, 1. tv, 2300 København S
+
+UDLEJET
+
+Delevenlig 3 vær. lejlighed
+
+13.536 kr./md.
+
+3 værelser
+
+83 m
+2
+
+Udlejet
+
+Sundbyvester Plads 1, 3. tv, 2300 København S
+
+UDLEJET
+
+3-værelses lejlighed på Amager
+
+11.138 kr./md.
+
+3 værelser
+
+69 m
+2
+
+Udlejet
+
+Dannebrogsgade 15, st. th, 1660 København V
+
+UDLEJET
+
+3 værelses lejlighed på Vesterbro
+
+14.455 kr./md.
+
+3 værelser
+
+89 m
+2
+
+Udlejet
+Delevenlig
+
+Amagerbrogade 120, 5., 2300 København S
+
+UDLEJET
+
+5-værelses lejlighed på Amager
+
+21.195 kr./md.
+
+5 værelser
+
+135 m
+2
+
+Udlejet
+Altan
+
+Stormgade 35, 4. th, 1555 København V
+
+UDLEJET
+
+7-værelses lejlighed på Vesterbro OBS: (Udlejes ikke til bofællesskaber)
+
+32.209 kr./md.
+
+7 værelser
+
+203 m
 2
 
 Kereby ApS
