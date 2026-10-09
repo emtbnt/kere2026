@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-12 boliger fundet
+10 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,11 +34,11 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (12)
+Alle (10)
 Indre By (2)
 Vesterbro (1)
 Østerbro (2)
-Nørrebro (6)
+Nørrebro (4)
 Valby
 Amager
 Frederiksberg
@@ -82,6 +82,7 @@ Strandboulevarden 61, 5. th, 2100 København Ø
 2
 
 Reserveret
+Elevator
 
 Nørrebrogade 176, 2. tv, 2200 København N
 
@@ -125,21 +126,6 @@ Ikke delebolig - 3. vær. med have.
 3 værelser
 
 96 m
-2
-
-Reserveret
-
-Jagtvej 183, 1. tv, 2100 København Ø
-
-RESERVERET
-
-5-værelses lejlighed på Østerbro
-
-26.227 kr./md.
-
-5 værelser
-
-160 m
 2
 
 Reserveret
@@ -209,32 +195,17 @@ RESERVERET
 
 Reserveret
 
-Heimdalsgade 8, 2. th, 2200 København N
+Jagtvej 183, 1. tv, 2100 København Ø
 
 RESERVERET
 
-2-værelses lejlighed på Nørrebro
+5-værelses lejlighed på Østerbro
 
-8.254 kr./md.
+26.227 kr./md.
 
-2 værelser
+5 værelser
 
-51 m
-2
-
-Reserveret
-
-Fredensgade 3B, 3. th, 2200 København N
-
-RESERVERET
-
-4-værelses lejlighed på Nørrebro
-
-17.047 kr./md.
-
-4 værelser
-
-104 m
+160 m
 2
 
 Udlejet
