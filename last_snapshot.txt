@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-10 boliger fundet
+11 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,13 +34,13 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (10)
+Alle (11)
 Indre By (2)
 Vesterbro (1)
-Østerbro (2)
-Nørrebro (3)
+Østerbro (1)
+Nørrebro (4)
 Valby
-Amager
+Amager (1)
 Frederiksberg (1)
 Hellerup (1)
 
@@ -97,6 +97,22 @@ Ikke delebolig - 3. vær. med have.
 Reserveret
 Elevator
 
+Allersgade 1, 2. tv, 2200 København N
+
+RESERVERET
+
+3-værelses lejlighed på Nørrebro
+
+15.279 kr./md.
+
+3 værelser
+
+95 m
+2
+
+Reserveret
+Elevator
+
 Nørrebrogade 176, 2. tv, 2200 København N
 
 RESERVERET
@@ -127,18 +143,19 @@ RESERVERET
 2
 
 Udlejet
+Elevator
 
-Gothersgade 10C, 2. th, 1123 København K
+Christian IX's Gade 5, 2. tv, 1111 København K
 
 UDLEJET
 
 4-værelses lejlighed i Indre by
 
-18.472 kr./md.
+32.938 kr./md.
 
 4 værelser
 
-111 m
+155 m
 2
 
 Erhvervslokale?
@@ -157,6 +174,21 @@ Fantastisk penthouselejlighed lige ved Søerne
 3 værelser
 
 114 m
+2
+
+Reserveret
+
+Sundbyvester Plads 9, 1. tv, 2300 København S
+
+RESERVERET
+
+3-værelses lejlighed på Amager
+
+10.012 kr./md.
+
+3 værelser
+
+63 m
 2
 
 Reserveret
@@ -189,35 +221,19 @@ RESERVERET
 82 m
 2
 
-Reserveret
-
-Jagtvej 183, 1. tv, 2100 København Ø
-
-RESERVERET
-
-5-værelses lejlighed på Østerbro
-
-26.227 kr./md.
-
-5 værelser
-
-160 m
-2
-
 Udlejet
-Elevator
 
-Christian IX's Gade 5, 2. tv, 1111 København K
+Gothersgade 10C, 2. th, 1123 København K
 
 UDLEJET
 
 4-værelses lejlighed i Indre by
 
-32.938 kr./md.
+18.472 kr./md.
 
 4 værelser
 
-155 m
+111 m
 2
 
 Kereby ApS
