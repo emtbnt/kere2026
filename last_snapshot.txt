@@ -95,51 +95,49 @@ Ikke delebolig - 3. vær. med have.
 2
 
 Reserveret
-Elevator
 
-Allersgade 1, 2. tv, 2200 København N
+Sundbyvester Plads 9, 1. tv, 2300 København S
+
+RESERVERET
+
+3-værelses lejlighed på Amager
+
+10.012 kr./md.
+
+3 værelser
+
+63 m
+2
+
+Reserveret
+Delevenlig
+
+H.C. Ørsteds Vej 12, 2. tv, 1879 Frederiksberg C
+
+RESERVERET
+
+God 6 vær. på Frederiksberg
+
+29.505 kr./md.
+
+6 værelser
+
+180 m
+2
+
+Reserveret
+
+Rantzausgade 32, 5. tv, 2200 København N
 
 RESERVERET
 
 3-værelses lejlighed på Nørrebro
 
-15.279 kr./md.
+13.510 kr./md.
 
 3 værelser
 
-95 m
-2
-
-Reserveret
-Elevator
-
-Nørrebrogade 176, 2. tv, 2200 København N
-
-RESERVERET
-
-5-værelses lejlighed på Nørrebro
-
-23.678 kr./md.
-
-5 værelser
-
-143 m
-2
-
-Reserveret
-Altan
-
-Helgolandsgade 2, 5. th, 1653 København V
-
-RESERVERET
-
-3-vær. med altan på Vesterbro
-
-16.683 kr./md.
-
-3 værelser
-
-91 m
+82 m
 2
 
 Udlejet
@@ -177,48 +175,51 @@ Fantastisk penthouselejlighed lige ved Søerne
 2
 
 Reserveret
+Altan
 
-Sundbyvester Plads 9, 1. tv, 2300 København S
+Helgolandsgade 2, 5. th, 1653 København V
 
 RESERVERET
 
-3-værelses lejlighed på Amager
+3-vær. med altan på Vesterbro
 
-10.012 kr./md.
+16.683 kr./md.
 
 3 værelser
 
-63 m
+91 m
 2
 
 Reserveret
+Elevator
 
-H.C. Ørsteds Vej 12, 2. tv, 1879 Frederiksberg C
-
-RESERVERET
-
-God 6 vær. på Frederiksberg
-
-29.505 kr./md.
-
-6 værelser
-
-180 m
-2
-
-Reserveret
-
-Rantzausgade 32, 5. tv, 2200 København N
+Allersgade 1, 2. tv, 2200 København N
 
 RESERVERET
 
 3-værelses lejlighed på Nørrebro
 
-13.510 kr./md.
+15.279 kr./md.
 
 3 værelser
 
-82 m
+95 m
+2
+
+Reserveret
+Elevator
+
+Nørrebrogade 176, 2. tv, 2200 København N
+
+RESERVERET
+
+5-værelses lejlighed på Nørrebro
+
+23.678 kr./md.
+
+5 værelser
+
+143 m
 2
 
 Udlejet
