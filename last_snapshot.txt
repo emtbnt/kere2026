@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-11 boliger fundet
+12 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,10 +34,10 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (11)
+Alle (12)
 Indre By (2)
 Vesterbro (1)
-Østerbro (1)
+Østerbro (2)
 Nørrebro (4)
 Valby
 Amager (1)
@@ -67,98 +67,17 @@ Tagterrasse
 Delevenlig
 Altan
 Ryd filter
-Penthouse
-Tagterrasse
 
-Strandboulevarden 61, 5. th, 2100 København Ø
+Jagtvej 183, 1. tv, 2100 København Ø
 
-4-værelses lejlighed på Østerbro
+5-værelses lejlighed på Østerbro
 
-24.990 kr./md.
+26.227 kr./md.
 
-4 værelser
+5 værelser
 
-126 m
+160 m
 2
-
-Altan
-
-Gersonsvej 55, st. th, 2900 Hellerup
-
-Ikke delebolig - 3. vær. med have.
-
-15.656 kr./md.
-
-3 værelser
-
-96 m
-2
-
-Reserveret
-
-Sundbyvester Plads 9, 1. tv, 2300 København S
-
-RESERVERET
-
-3-værelses lejlighed på Amager
-
-10.012 kr./md.
-
-3 værelser
-
-63 m
-2
-
-Reserveret
-Delevenlig
-
-H.C. Ørsteds Vej 12, 2. tv, 1879 Frederiksberg C
-
-RESERVERET
-
-God 6 vær. på Frederiksberg
-
-29.505 kr./md.
-
-6 værelser
-
-180 m
-2
-
-Reserveret
-
-Rantzausgade 32, 5. tv, 2200 København N
-
-RESERVERET
-
-3-værelses lejlighed på Nørrebro
-
-13.510 kr./md.
-
-3 værelser
-
-82 m
-2
-
-Udlejet
-Elevator
-
-Christian IX's Gade 5, 2. tv, 1111 København K
-
-UDLEJET
-
-4-værelses lejlighed i Indre by
-
-32.938 kr./md.
-
-4 værelser
-
-155 m
-2
-
-Erhvervslokale?
-
-Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
 
 Penthouse
 Tagterrasse
@@ -235,6 +154,99 @@ UDLEJET
 4 værelser
 
 111 m
+2
+
+Erhvervslokale?
+
+Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+
+Penthouse
+Tagterrasse
+
+Strandboulevarden 61, 5. th, 2100 København Ø
+
+4-værelses lejlighed på Østerbro
+
+24.990 kr./md.
+
+4 værelser
+
+126 m
+2
+
+Altan
+
+Gersonsvej 55, st. th, 2900 Hellerup
+
+Ikke delebolig - 3. vær. med have.
+
+15.656 kr./md.
+
+3 værelser
+
+96 m
+2
+
+Reserveret
+
+Sundbyvester Plads 9, 1. tv, 2300 København S
+
+RESERVERET
+
+3-værelses lejlighed på Amager
+
+10.012 kr./md.
+
+3 værelser
+
+63 m
+2
+
+Reserveret
+Delevenlig
+
+H.C. Ørsteds Vej 12, 2. tv, 1879 Frederiksberg C
+
+RESERVERET
+
+God 6 vær. på Frederiksberg
+
+29.505 kr./md.
+
+6 værelser
+
+180 m
+2
+
+Udlejet
+
+Rantzausgade 32, 5. tv, 2200 København N
+
+UDLEJET
+
+3-værelses lejlighed på Nørrebro
+
+13.510 kr./md.
+
+3 værelser
+
+82 m
+2
+
+Udlejet
+Elevator
+
+Christian IX's Gade 5, 2. tv, 1111 København K
+
+UDLEJET
+
+4-værelses lejlighed i Indre by
+
+32.938 kr./md.
+
+4 værelser
+
+155 m
 2
 
 Kereby ApS
