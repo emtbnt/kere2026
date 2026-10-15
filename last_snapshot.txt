@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-12 boliger fundet
+14 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,13 +34,13 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (12)
+Alle (14)
 Indre By (2)
 Vesterbro (1)
 Østerbro (2)
 Nørrebro (4)
 Valby
-Amager (1)
+Amager (3)
 Frederiksberg (1)
 Hellerup (1)
 
@@ -67,30 +67,44 @@ Tagterrasse
 Delevenlig
 Altan
 Ryd filter
+Altan
 
-Jagtvej 183, 1. tv, 2100 København Ø
+Lyongade 14, 5. tv, 2300 København S
 
-5-værelses lejlighed på Østerbro
+5-værelses lejlighed på Amager
 
-26.227 kr./md.
+27.225 kr./md.
 
 5 værelser
 
-160 m
+121 m
 2
 
 Penthouse
 Tagterrasse
 
-Sortedam Dossering 45, 5. tv, 2200 København N
+Strandboulevarden 61, 5. th, 2100 København Ø
 
-Fantastisk penthouselejlighed lige ved Søerne
+4-værelses lejlighed på Østerbro
 
-23.864 kr./md.
+24.990 kr./md.
+
+4 værelser
+
+126 m
+2
+
+Altan
+
+Gersonsvej 55, st. th, 2900 Hellerup
+
+Ikke delebolig - 3. vær. med have.
+
+15.656 kr./md.
 
 3 værelser
 
-114 m
+96 m
 2
 
 Reserveret
@@ -160,31 +174,45 @@ Erhvervslokale?
 
 Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
 
+Jagtvej 183, 1. tv, 2100 København Ø
+
+5-værelses lejlighed på Østerbro
+
+26.227 kr./md.
+
+5 værelser
+
+160 m
+2
+
 Penthouse
 Tagterrasse
 
-Strandboulevarden 61, 5. th, 2100 København Ø
+Sortedam Dossering 45, 5. tv, 2200 København N
 
-4-værelses lejlighed på Østerbro
+Fantastisk penthouselejlighed lige ved Søerne
 
-24.990 kr./md.
-
-4 værelser
-
-126 m
-2
-
-Altan
-
-Gersonsvej 55, st. th, 2900 Hellerup
-
-Ikke delebolig - 3. vær. med have.
-
-15.656 kr./md.
+23.864 kr./md.
 
 3 værelser
 
-96 m
+114 m
+2
+
+Reserveret
+Delevenlig
+
+Tyrolsgade 9, 1. tv, 2300 København S
+
+RESERVERET
+
+3-værelses lejlighed på Amager
+
+14.934 kr./md.
+
+3 værelser
+
+93 m
 2
 
 Reserveret
