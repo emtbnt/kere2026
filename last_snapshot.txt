@@ -24,7 +24,7 @@ Job
 English
 Find et sted du kan kalde hjem
 
-13 boliger fundet
+16 boliger fundet
 
 Sorter:
 Pris ↑
@@ -34,13 +34,13 @@ Størrelse ↓
 Liste
 Kort
 Område KBH
-Alle (13)
+Alle (16)
 Indre By (2)
 Vesterbro (1)
 Østerbro (2)
-Nørrebro (3)
+Nørrebro (5)
 Valby
-Amager (3)
+Amager (4)
 Frederiksberg (1)
 Hellerup (1)
 
@@ -67,17 +67,18 @@ Tagterrasse
 Delevenlig
 Altan
 Ryd filter
-Altan
+Delevenlig
+Elevator
 
-Lyongade 14, 5. tv, 2300 København S
+Nørrebrogade 174, 1. th, 2200 København N
 
-5-værelses lejlighed på Amager
+Istandsat og delevenlig 5-værelses
 
-27.225 kr./md.
+31.800 kr./md.
 
 5 værelser
 
-121 m
+159 m
 2
 
 Penthouse
@@ -95,6 +96,23 @@ Strandboulevarden 61, 5. th, 2100 København Ø
 2
 
 Reserveret
+Penthouse
+Altan
+
+Åboulevard 48, 5. th, 2200 København N
+
+RESERVERET
+
+3-værelses lejlighed på Nørrebro
+
+16.646 kr./md.
+
+3 værelser
+
+85 m
+2
+
+Reserveret
 Delevenlig
 
 Tyrolsgade 9, 1. tv, 2300 København S
@@ -108,6 +126,128 @@ RESERVERET
 3 værelser
 
 93 m
+2
+
+Reserveret
+Altan
+
+Helgolandsgade 2, 5. th, 1653 København V
+
+RESERVERET
+
+3-vær. med altan på Vesterbro
+
+16.683 kr./md.
+
+3 værelser
+
+91 m
+2
+
+Reserveret
+Elevator
+
+Allersgade 1, 2. tv, 2200 København N
+
+RESERVERET
+
+3-værelses lejlighed på Nørrebro
+
+15.279 kr./md.
+
+3 værelser
+
+95 m
+2
+
+Udlejet
+Elevator
+
+Nørrebrogade 176, 2. tv, 2200 København N
+
+UDLEJET
+
+5-værelses lejlighed på Nørrebro
+
+23.678 kr./md.
+
+5 værelser
+
+143 m
+2
+
+Udlejet
+
+Gothersgade 10C, 2. th, 1123 København K
+
+UDLEJET
+
+4-værelses lejlighed i Indre by
+
+18.472 kr./md.
+
+4 værelser
+
+111 m
+2
+
+Erhvervslokale?
+
+Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
+
+Jagtvej 183, 1. tv, 2100 København Ø
+
+5-værelses lejlighed på Østerbro
+
+26.227 kr./md.
+
+5 værelser
+
+160 m
+2
+
+Altan
+
+Gersonsvej 55, st. th, 2900 Hellerup
+
+Ikke delebolig - 3. vær. med have.
+
+15.656 kr./md.
+
+3 værelser
+
+96 m
+2
+
+Reserveret
+
+Bøhmensgade 9, 3. th, 2300 København S
+
+RESERVERET
+
+3-værelses lejlighed på Amager
+
+9.367 kr./md.
+
+3 værelser
+
+57 m
+2
+
+Reserveret
+Altan
+
+Lyongade 14, 5. tv, 2300 København S
+
+RESERVERET
+
+5-værelses lejlighed på Amager
+
+27.225 kr./md.
+
+5 værelser
+
+121 m
 2
 
 Reserveret
@@ -170,97 +310,6 @@ UDLEJET
 4 værelser
 
 155 m
-2
-
-Erhvervslokale?
-
-Vi kan også tilbyde de rette rammer for din virksomhed. Se vores lokaler her.
-
-Jagtvej 183, 1. tv, 2100 København Ø
-
-5-værelses lejlighed på Østerbro
-
-26.227 kr./md.
-
-5 værelser
-
-160 m
-2
-
-Altan
-
-Gersonsvej 55, st. th, 2900 Hellerup
-
-Ikke delebolig - 3. vær. med have.
-
-15.656 kr./md.
-
-3 værelser
-
-96 m
-2
-
-Reserveret
-Altan
-
-Helgolandsgade 2, 5. th, 1653 København V
-
-RESERVERET
-
-3-vær. med altan på Vesterbro
-
-16.683 kr./md.
-
-3 værelser
-
-91 m
-2
-
-Reserveret
-Elevator
-
-Allersgade 1, 2. tv, 2200 København N
-
-RESERVERET
-
-3-værelses lejlighed på Nørrebro
-
-15.279 kr./md.
-
-3 værelser
-
-95 m
-2
-
-Reserveret
-Elevator
-
-Nørrebrogade 176, 2. tv, 2200 København N
-
-RESERVERET
-
-5-værelses lejlighed på Nørrebro
-
-23.678 kr./md.
-
-5 værelser
-
-143 m
-2
-
-Udlejet
-
-Gothersgade 10C, 2. th, 1123 København K
-
-UDLEJET
-
-4-værelses lejlighed i Indre by
-
-18.472 kr./md.
-
-4 værelser
-
-111 m
 2
 
 Kereby ApS
